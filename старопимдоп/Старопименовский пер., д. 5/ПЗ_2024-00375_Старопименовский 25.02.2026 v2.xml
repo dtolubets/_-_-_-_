@@ -1,0 +1,788 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="explanatorynote-01-03.xsl" ?>
+<ExplanatoryNote xsi:noNamespaceSchemaLocation="explanatorynote-01-03.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" SchemaVersion="01.03" id="1CB26860-949E-F565-F2FD-2A968CEFEC3E">
+ <ExplanatoryNoteNumber>2024-00375-01-0-ПЗ</ExplanatoryNoteNumber>
+ <ExplanatoryNoteYear>2025</ExplanatoryNoteYear>
+ <IssueAuthor>
+  <Organization>
+   <OrgFullName>Государственное автономное учреждение города Москвы Московский научноисследовательский и проектный институт жилищного хозяйства «МосжилНИИпроект»</OrgFullName>
+   <OrgOGRN>1197746303204</OrgOGRN>
+   <OrgINN>9710075487</OrgINN>
+   <OrgKPP>770801001</OrgKPP>
+   <Address>
+    <Country>Россия</Country>
+    <Region>77</Region>
+    <City>Москва</City>
+    <Street>Каланчевская</Street>
+    <Building>4/2 стр.1</Building>
+   </Address>
+   <Email>mgnp@mgnp.mos.ru</Email>
+  </Organization>
+  <SROMembership>
+   <SRO SROType="Саморегулируемая организация в области инженерных изысканий">9710075487-20230926-1607</SRO>
+   <SRO SROType="Саморегулируемая организация в области архитектурно-строительного проектирования">9710075487-20230926-1609</SRO>
+   <SRO SROType="Саморегулируемая организация в области строительства">9710075487-20230919-1110</SRO>
+  </SROMembership>
+ </IssueAuthor>
+ <Signers>
+  <Signer engineeringRegistry="да" constructionRegistry="да">
+   <FamilyName>Нигматулин</FamilyName>
+   <FirstName>Наиль</FirstName>
+   <SecondName>Равилевич</SecondName>
+   <Position>Заместитель директора</Position>
+  </Signer>
+ </Signers>
+ <Developer>
+  <Organization>
+   <OrgFullName>АВТОНОМНАЯ НЕКОММЕРЧЕСКАЯ ОРГАНИЗАЦИЯ &quot;РАЗВИТИЕ ГОРОДСКИХ ТЕХНОЛОГИЙ&quot;</OrgFullName>
+   <OrgOGRN>1217700058146</OrgOGRN>
+   <OrgINN>9701170871</OrgINN>
+   <OrgKPP>770101001</OrgKPP>
+   <Address>
+    <Country>Россия</Country>
+    <Region>77</Region>
+    <City>105005, вн. тер. муниципальный округ Басманный</City>
+    <Street>пер. Плетешковский</Street>
+    <Building>д. 22</Building>
+    <Room>помещ. 20, этаж 3</Room>
+   </Address>
+  </Organization>
+ </Developer>
+ <UsedNorms>
+  <UsedNorm>СП 2.4.3648-20 «Санитарно-эпидемиологические требования к организациям воспитания и обучения, отдыха и оздоровления детей и молодежи</UsedNorm>
+  <UsedNorm>СанПиН 1.2.3685-21 «Гигиенические нормативы и требования к обеспечению безопасности и (или) безвредности для человека факторов среды обитания»</UsedNorm>
+  <UsedNorm>СП 59.13330.2020 «Доступность зданий и сооружений для маломобильных групп населения. Актуализированная редакция СНиП 35-01-2001. Документ применяется в полном объеме. Все остальные документы применяются только в части / частях не противоречащих требованиям СП59.13330.2020</UsedNorm>
+  <UsedNorm>СП 1.13330.2020 «Системы противопожарной защиты. Эвакуационные пути и выходы». Документ применяется в части не противоречащей требованиям СП59.13330.2020</UsedNorm>
+  <UsedNorm>СП 136.13330.2012 «Здания и сооружения. Общие положения проектирования с учетом доступности для маломобильных групп населения»; Документ применяется в части не противоречащей требованиям СП59.13330.2020</UsedNorm>
+  <UsedNorm>СП 138.13330.2012 Общественные здания и сооружения, доступные маломобильным группам населения. Правила проектирования (с Изменением N 1). Документ применяется в части не противоречащей требованиям СП59.13330.2020</UsedNorm>
+  <UsedNorm>ГОСТ Р 52875-2018 «Указатели тактильные наземные для инвалидов по зрению. Технические требования»</UsedNorm>
+  <UsedNorm>ГОСТ Р 51261-2017 «Устройства опорные стационарные реабилитационные. Типы и технические требования»</UsedNorm>
+  <UsedNorm>ГОСТ Р 52131-2019 «Средства отображения информации знаковые для инвалидов. Технические требования»</UsedNorm>
+  <UsedNorm>ГОСТ Р 51671-2020 «Средства связи и информации технические общего пользования, доступные для инвалидов. Классификация. Требования доступности и безопасности»</UsedNorm>
+  <UsedNorm>СП 118.13330.2022 «Общественные здания и сооружения»</UsedNorm>
+  <UsedNorm>СП 251.1325800.2016 «Здания общеобразовательных организаций. Правила проектирования»</UsedNorm>
+  <UsedNorm>СП 132.13330.2011 «Обеспечение антитеррористической защищенности зданий и сооружений. Общие требования проектирования»</UsedNorm>
+  <UsedNorm>ГОСТ 21.507-81 «Система проектной документации для строительства. Интерьеры»</UsedNorm>
+  <UsedNorm>ГОСТ 21.501-2018. «Система проектной документации для строительства. Правила выполнения рабочей документации архитектурных и конструктивных решений»</UsedNorm>
+  <UsedNorm>ГОСТ 30826-2014 «Стекло многослойное. Технические условия»</UsedNorm>
+ </UsedNorms>
+ <ProjectDecisionDocuments>
+  <Document>
+   <DocType>01.99</DocType>
+   <DocName>Постановление Правительства Москвы &quot;Об утверждении Государственной программы города Москвы &quot;Развитие образования города Москвы (&quot;Столичное образование&quot;)&quot; (с изменениями на 29 марта 2022 года)</DocName>
+   <DocNumber>450-ПП</DocNumber>
+   <DocDate>2011-09-27</DocDate>
+   <DocIssueAuthor>Правительство Москвы</DocIssueAuthor>
+   <Included>Учтено в 2024-00375-01-0-ПЗ</Included>
+  </Document>
+  <Document>
+   <DocType>01.99</DocType>
+   <DocName>Приказ О внесении изменений в приказ от 11.07.2024 №01-12-712/24 Департамента образования и науки города Москвы</DocName>
+   <DocNumber>01-12-1369/24</DocNumber>
+   <DocDate>2024-12-28</DocDate>
+   <DocIssueAuthor>Департамент образования и науки города Москвы</DocIssueAuthor>
+   <Included>Учтено в 2024-00375-01-0-ПЗ</Included>
+  </Document>
+  <Document>
+   <DocType>01.99</DocType>
+   <DocName>Дополнительное соглашение к Договору о предоставлении субсидии из бюджета города Москвы от 29.01.2024 №7/24 с Приложением №1 и Приложением №2</DocName>
+   <DocNumber>9</DocNumber>
+   <DocDate>2024-11-11</DocDate>
+   <DocIssueAuthor>Заключенный между ГКУ УКРиС и АНО РГТ</DocIssueAuthor>
+   <Included>Учтено в 2024-00375-01-0-ПЗ</Included>
+  </Document>
+ </ProjectDecisionDocuments>
+ <ProjectInitialDocuments>
+  <Document>
+   <DocType>05.03</DocType>
+   <DocName>Задание на разработку проектной документации</DocName>
+   <DocNumber>б/н</DocNumber>
+   <DocDate>2025-02-22</DocDate>
+   <DocIssueAuthor>Утверждено АНО РГТ, согласовано Департаментом капитального ремонта города Москвы</DocIssueAuthor>
+   <Included>Учтено в 2024-00375-01-0-ПЗ</Included>
+  </Document>
+  <Document>
+   <DocType>99.99</DocType>
+   <DocName>Дополнительное соглашение к Договору от 29.01.2024 №7/24 о предоставлении субсидии из бюджета города Москвы</DocName>
+   <DocNumber>9</DocNumber>
+   <DocDate>2024-11-11</DocDate>
+   <DocIssueAuthor>ГКУ УКPиC</DocIssueAuthor>
+   <Included>Учтено в 2024-00375-01-0-ПЗ</Included>
+  </Document>
+  <Document>
+   <DocType>99.99</DocType>
+   <DocName>Письмо о доведении финансирования</DocName>
+   <DocNumber>07-10-507/25</DocNumber>
+   <DocDate>2025-02-06</DocDate>
+   <DocIssueAuthor>Департамент капитального ремонта города Москвы</DocIssueAuthor>
+   <Included>Учтено в 2024-00375-01-0-ПЗ</Included>
+  </Document>
+  <Document>
+   <DocType>17.99</DocType>
+   <DocName>Свидетельство о государственной регистрации права. Постоянное (бессрочное) пользование</DocName>
+   <DocNumber>77-77-12/056/2014-590</DocNumber>
+   <DocDate>2015-12-22</DocDate>
+   <DocIssueAuthor>Управление Росреестра по Москве</DocIssueAuthor>
+   <Included>Учтено в 2024-00375-01-0-ПЗ</Included>
+  </Document>
+  <Document>
+   <DocType>17.99</DocType>
+   <DocName>Свидетельство о государственной регистрации права. Оперативное управление</DocName>
+   <DocNumber>77-77-12/056/2014-589</DocNumber>
+   <DocDate>2015-12-22</DocDate>
+   <DocIssueAuthor>Управление Росреестра по Москве</DocIssueAuthor>
+   <Included>Учтено в 2024-00375-01-0-ПЗ</Included>
+  </Document>
+  <Document>
+   <DocType>04.99</DocType>
+   <DocName>Технические задание на проектирование систем охранной и тревожной сигнализации</DocName>
+   <DocNumber>20105/8-501</DocNumber>
+   <DocDate>2025-02-03</DocDate>
+   <DocIssueAuthor>Федеральное государственное казенное учреждение &quot;Управление вневедомственной охраны войск национальной гвардии Российской Федерации по городу Москве&quot;</DocIssueAuthor>
+   <Included>Учтено в 2024-00375-01-0-ПЗ</Included>
+  </Document>
+  <Document>
+   <DocType>04.01</DocType>
+   <DocName>ТЕХНИЧЕСКИЕ УСЛОВИЯ (ТУ) на радиофикацию и оповещение о ЧС, радиоканальную систему передачи извещений (РСПИ) о пожаре на &quot;Пульт 01&quot;, систему кабельного телевидения</DocName>
+   <DocNumber>1480 РФ/О/РСПИ/ТВ-ЕТЦ/2025</DocNumber>
+   <DocDate>2025-02-10</DocDate>
+   <DocIssueAuthor>ООО &quot;Корпорация ИнформТелеСеть&quot;</DocIssueAuthor>
+   <Included>Учтено в 2024-00375-01-0-ПЗ</Included>
+  </Document>
+  <Document>
+   <DocType>04.01</DocType>
+   <DocName>Технические требования к оборудованию, устанавливаемому на объекте для защиты , для обеспечения передачи сигналов от объектовой системы пожарной сигнализации</DocName>
+   <DocNumber>74487</DocNumber>
+   <DocDate>2025-02-04</DocDate>
+   <DocIssueAuthor>ГБУ «Система 112»</DocIssueAuthor>
+   <Included>Учтено в 2024-00375-01-0-ПЗ</Included>
+  </Document>
+  <Document>
+   <DocType>04.01</DocType>
+   <DocName>Технические условия на технологическое присоединение к электрическим сетям</DocName>
+   <DocNumber>И-25-00-14945/102/МС</DocNumber>
+   <DocDate>2025-04-03</DocDate>
+   <DocIssueAuthor>ПАО &quot;Россети Московский регион&quot;</DocIssueAuthor>
+   <Included>Учтено в 2024-00375-01-0-ПЗ</Included>
+  </Document>
+  <Document>
+   <DocType>04.99</DocType>
+   <DocName>Договор  об оказании услуг телефонной связи</DocName>
+   <DocNumber>0033271-1/2007</DocNumber>
+   <DocDate>2023-06-23</DocDate>
+   <DocIssueAuthor>ПАО &quot;МГТС&quot;</DocIssueAuthor>
+   <Included>Учтено в 2024-00375-01-0-ПЗ</Included>
+  </Document>
+  <Document>
+   <DocType>04.99</DocType>
+   <DocName>Государственный контракт на передачу электрической энергии</DocName>
+   <DocNumber>77640001012012</DocNumber>
+   <DocDate>2023-12-22</DocDate>
+   <DocIssueAuthor>АО «Мосэнергосбыт»</DocIssueAuthor>
+   <Included>Учтено в 2024-00375-01-0-ПЗ</Included>
+  </Document>
+  <Document>
+   <DocType>04.01</DocType>
+   <DocName>Технические условия на выполнение работ по обеспечению сохранности кабельных и канализационных сооружений связи</DocName>
+   <DocNumber>1417-Ц-2024</DocNumber>
+   <DocDate>2024-12-02</DocDate>
+   <DocIssueAuthor>ПАО &quot;МГТС&quot;</DocIssueAuthor>
+   <Included>Учтено в 2024-00375-01-0-ПЗ</Included>
+  </Document>
+  <Document>
+   <DocType>04.01</DocType>
+   <DocName>Технические условия на сопряжение объектовой системы оповещения</DocName>
+   <DocNumber>74488</DocNumber>
+   <DocDate>2025-02-04</DocDate>
+   <DocIssueAuthor>ГБУ «Система 112»</DocIssueAuthor>
+   <Included>Учтено в 2024-00375-01-0-ПЗ</Included>
+  </Document>
+  <Document>
+   <DocType>99.99</DocType>
+   <DocName>Письмо об отсутствии требования по отдельной установке приборов учета горячей и холодной воды для помещений пищеблока</DocName>
+   <DocNumber>Исх-8916/25</DocNumber>
+   <DocDate>2025-04-03</DocDate>
+   <DocIssueAuthor>Департамент образования и науки города Москвы</DocIssueAuthor>
+   <Included>Учтено в 2024-00375-01-0-ПЗ</Included>
+  </Document>
+  <Document>
+   <DocType>04.99</DocType>
+   <DocName>Контракт холодного водоснабжения и водоотведения</DocName>
+   <DocNumber>3074112</DocNumber>
+   <DocDate>2023-12-22</DocDate>
+   <DocIssueAuthor>АО &quot;Мосводоканал&quot;</DocIssueAuthor>
+   <Included>Учтено в 2024-00375-01-0-ПЗ</Included>
+  </Document>
+  <Document>
+   <DocType>04.01</DocType>
+   <DocName>Контракт горячего водоснабжения</DocName>
+   <DocNumber>01.980043кГВ</DocNumber>
+   <DocDate>2024-01-18</DocDate>
+   <DocIssueAuthor>ПАО &quot;МОЭК&quot;</DocIssueAuthor>
+   <Included>Учтено в 2024-00375-01-0-ПЗ</Included>
+  </Document>
+  <Document>
+   <DocType>99.99</DocType>
+   <DocName>Письмо о среднесуточном объеме водопотребления</DocName>
+   <DocNumber>(01)02.074-2818/25</DocNumber>
+   <DocDate>2025-03-12</DocDate>
+   <DocIssueAuthor>АО &quot;Мосводоканал&quot;</DocIssueAuthor>
+   <Included>Учтено в 2024-00375-01-0-ПЗ</Included>
+  </Document>
+  <Document>
+   <DocType>99.99</DocType>
+   <DocName>Письмо о согласовании проведения работ по капитальному ремонту здания</DocName>
+   <DocNumber>ДКН-16-09-3295/25</DocNumber>
+   <DocDate>2025-09-23</DocDate>
+   <DocIssueAuthor>Департамент культурного наследия города Москвы (Мосгорнаследие)</DocIssueAuthor>
+   <Included>Учтено в 2024-00375-01-0-ПЗ</Included>
+  </Document>
+  <Document>
+   <DocType>04.99</DocType>
+   <DocName>Договор о подключении к системе теплоснабжения</DocName>
+   <DocNumber>10-11/25-578</DocNumber>
+   <DocDate>2025-07-09</DocDate>
+   <DocIssueAuthor>ПАО &quot;МОЭК&quot;</DocIssueAuthor>
+   <Included>Учтено в 2024-00375-01-0-ПЗ</Included>
+  </Document>
+  <Document>
+   <DocType>99.99</DocType>
+   <DocName>Письмо о циклах приготовления блюд в пищеблоке</DocName>
+   <DocNumber>Исх-9129/25</DocNumber>
+   <DocDate>2025-04-04</DocDate>
+   <DocIssueAuthor>Департамент образования и науки города Москвы</DocIssueAuthor>
+   <Included>Учтено в 2024-00375-01-0-ПЗ</Included>
+  </Document>
+  <Document>
+   <DocType>99.99</DocType>
+   <DocName>Справка об отсутствии сооружения и помещения ГО и ЧС</DocName>
+   <DocNumber>б/н</DocNumber>
+   <DocDate>2024-08-12</DocDate>
+   <DocIssueAuthor>ГБОУ Школа № 1574</DocIssueAuthor>
+   <Included>Учтено в 2024-00375-01-0-ПЗ</Included>
+  </Document>
+  <Document>
+   <DocType>99.99</DocType>
+   <DocName>Стандарт &quot;Московская школа. Модернизация объектов образования&quot;</DocName>
+   <DocNumber>б/н</DocNumber>
+   <DocDate>2024-10-01</DocDate>
+   <DocIssueAuthor>Зам. мэра Москвы А.В. Ракова, Министр Правительства Москвы И.А. Каклюгина, Заместитель руководителя департамента образования и науки города Москвы АА. Корнеева</DocIssueAuthor>
+   <Included>Учтено в 2024-00375-01-0-ПЗ</Included>
+  </Document>
+  <Document>
+   <DocType>10.01</DocType>
+   <DocName>ВЫПИСКА из единого реестра сведений о членах саморегулируемых организаций в области инженерных изысканий и в области архитектурно-строительного проектирования и их обязательствах. Инженерные изыскания</DocName>
+   <DocNumber>9710075487-20251003-0927</DocNumber>
+   <DocDate>2025-10-03</DocDate>
+   <DocIssueAuthor>НОПРИЗ</DocIssueAuthor>
+   <Included>Учтено в 2024-00375-01-0-ПЗ</Included>
+  </Document>
+  <Document>
+   <DocType>10.01</DocType>
+   <DocName>ВЫПИСКА из единого реестра сведений о членах саморегулируемых организаций в области инженерных изысканий и в области архитектурно-строительного проектирования и их обязательствах. Подготовка проектной документации</DocName>
+   <DocNumber>9710075487-20251003-0929</DocNumber>
+   <DocDate>2025-10-03</DocDate>
+   <DocIssueAuthor>НОПРИЗ</DocIssueAuthor>
+   <Included>Учтено в 2024-00375-01-0-ПЗ</Included>
+  </Document>
+  <Document>
+   <DocType>10.01</DocType>
+   <DocName>ВЫПИСКА ИЗ РЕЕСТРА ЧЛЕНОВ САМОРЕГУЛИРУЕМОЙ ОРГАНИЗАЦИИ В СОСТАВЕ ЕДИНОГО РЕЕСТРА СВЕДЕНИЙ О ЧЛЕНАХ САМОРЕГУЛИРУЕМЫХ ОРГАНИЗАЦИЙ В ОБЛАСТИ СТРОИТЕЛЬСТВА, РЕКОНСТРУКЦИИ, КАПИТАЛЬНОГО РЕМОНТА, СНОСА ОБЪЕКТОВ КАПИТАЛЬНОГО СТРОИТЕЛЬСТВА И ИХ ОБЯЗАТЕЛЬСТВАХ</DocName>
+   <DocNumber>9710075487-20251003-1143</DocNumber>
+   <DocDate>2025-10-03</DocDate>
+   <DocIssueAuthor>НОСТРОЙ</DocIssueAuthor>
+   <Included>Учтено в 2024-00375-01-0-ПЗ</Included>
+  </Document>
+  <Document>
+   <DocType>99.99</DocType>
+   <DocName>НОПРИЗ ГИП Нигматулин Н.Р.</DocName>
+   <DocNumber>П-148372</DocNumber>
+   <DocDate>2025-02-07</DocDate>
+   <DocIssueAuthor>НОПРИЗ</DocIssueAuthor>
+   <Included>Учтено в 2024-00375-01-0-ПЗ</Included>
+  </Document>
+ </ProjectInitialDocuments>
+ <EngineeringSurveyDocuments>
+  <Document>
+   <DocType>06.07</DocType>
+   <DocName>Техническое заключение &quot;О состоянии конструкций и инженерных систем здания</DocName>
+   <DocNumber>2024-00375-00-0</DocNumber>
+   <DocDate>2023-09-05</DocDate>
+   <FullDocIssueAuthor>
+    <Organization>
+     <OrgFullName>Государственное автономное учреждение г. Москвы «МосжилНИИпроект».</OrgFullName>
+     <OrgOGRN>1197746303204</OrgOGRN>
+     <OrgINN>9710075487</OrgINN>
+     <OrgKPP>770801001</OrgKPP>
+     <Address>
+      <Country>Россия</Country>
+      <Region>77</Region>
+      <City>Москва</City>
+      <Street>Каланчевская улица</Street>
+      <Building>4/5 стр.1</Building>
+     </Address>
+    </Organization>
+   </FullDocIssueAuthor>
+   <File>
+    <FileName>2024-00375-00-0-ТЗК v20 от 01.11.2025.pdf.sig</FileName>
+    <FileFormat>sig</FileFormat>
+    <FileChecksum>FBDFF1C9</FileChecksum>
+   </File>
+  </Document>
+ </EngineeringSurveyDocuments>
+ <AdditionalData>
+  <Data>
+   <DataDescription>Пояснительная записка</DataDescription>
+   <File>
+    <FileName>2024-00375-01-0-ПЗ_v33.pdf.sig</FileName>
+    <FileFormat>sig</FileFormat>
+    <FileChecksum>206D61AF</FileChecksum>
+   </File>
+  </Data>
+ </AdditionalData>
+ <FinanceSources>
+  <BudgetSource>
+   <BudgetLevel>Бюджет субъекта Российской Федерации</BudgetLevel>
+   <SourceRatio>100</SourceRatio>
+  </BudgetSource>
+ </FinanceSources>
+ <NonIndustrialObject ObjectID="id48292202" Placement="1">
+  <Name>Капитальный ремонт здания Государственного бюджетного общеобразовательного учреждения города Москвы «Школа №1574», расположенного по адресу: г. Москва, Старопименовский переулок, д. 5. 1 этап</Name>
+  <ConstructionType>3</ConstructionType>
+  <ConstructionDuration>13</ConstructionDuration>
+  <Address>
+   <Country>Российская Федерация</Country>
+   <Region>77</Region>
+   <Street>Старопименовский переулок</Street>
+   <Building>5</Building>
+  </Address>
+  <Functions>
+   <FunctionsNote>Здание средней школы</FunctionsNote>
+   <FunctionsClass>02.03.002.003</FunctionsClass>
+  </Functions>
+  <FunctionsFeatures>
+   <Text>Объект не принадлежит к объектам транспортной инфраструктуры и к другим объектам, функционально-технологические особенности которых влияют на их безопасность</Text>
+  </FunctionsFeatures>
+  <PowerIndicator>
+   <Name>Ученическое место</Name>
+   <Measure>902</Measure>
+   <Value>400</Value>
+  </PowerIndicator>
+  <TEI>
+   <Name>Строительный объём</Name>
+   <Measure>113</Measure>
+   <Value>22102,0</Value>
+  </TEI>
+  <TEI>
+   <Name>Общая площадь здания</Name>
+   <Measure>055</Measure>
+   <Value>6314,9</Value>
+  </TEI>
+  <TEI>
+   <Name>Количество этажей</Name>
+   <Measure>-</Measure>
+   <Value>5+цокольный этаж+подвал</Value>
+  </TEI>
+  <TEI>
+   <Name>Площадь застройки</Name>
+   <Measure>055</Measure>
+   <Value>1262,9</Value>
+  </TEI>
+  <Resources>
+   <Note>
+    <Text>Остаются без изменений при капитальном ремонте</Text>
+   </Note>
+   <Resource>
+    <Name>Расчетный расход воды общий</Name>
+    <Measure>598</Measure>
+    <Value>8,23</Value>
+   </Resource>
+   <Resource>
+    <Name>Расчетный расход холодной воды</Name>
+    <Measure>598</Measure>
+    <Value>7,5</Value>
+   </Resource>
+   <Resource>
+    <Name>Расчетный расход горячей воды</Name>
+    <Measure>598</Measure>
+    <Value>0,92</Value>
+   </Resource>
+   <Resource>
+    <Name>Расход сточных вод хозяйственно-бытовой канализации</Name>
+    <Measure>598</Measure>
+    <Value>8,23</Value>
+   </Resource>
+   <Resource>
+    <Name>Расход тепла на отопление</Name>
+    <Measure>238</Measure>
+    <Value>0,2445</Value>
+   </Resource>
+   <Resource>
+    <Name>Расход тепла на теплоснабжение систем вентиляции</Name>
+    <Measure>238</Measure>
+    <Value>0,525</Value>
+   </Resource>
+   <Resource>
+    <Name>Расчетная мощность энергопотребления</Name>
+    <Measure>214</Measure>
+    <Value>334,39</Value>
+   </Resource>
+  </Resources>
+  <LandCategory>2</LandCategory>
+  <LandInfo>
+   <CommonLandInfo>
+    <Text>В рамках настоящей программы капитального ремонта не предусматривается возможность по изъятию земельных участков для государственных или муниципальных нужд и (или) установления на таких участках сервитута, публичного сервитута, заключения договора аренды (субаренды).</Text>
+   </CommonLandInfo>
+  </LandInfo>
+  <LandFunds>
+   <Text>В рамках настоящей программы капитального ремонта не предусматривается возможность по изъятию земельных участков для государственных или муниципальных нужд и (или) установления на таких участках сервитута, публичного сервитута, заключения договора аренды (субаренды).</Text>
+  </LandFunds>
+  <PatentsUsed>
+   <Text>В рамках настоящей программы капитального ремонта не предусматривается возможность по массовому использованию в проекте изобретений и проведения патентных исследований.</Text>
+  </PatentsUsed>
+  <SpecialRequirements>
+   <Text>В рамках настоящей программы капитального ремонта не предусматривается возможность по массовому использованию, разработке и согласованию специальных технических условий (так как все принципиальные решения остаются неизменными, по существующей схеме и фактическому состоянию объекта).</Text>
+  </SpecialRequirements>
+  <StaffNote>
+   <Text>Режим работы учебного заведения: с 8:00 до 19:00</Text>
+   <Text>Режим работы столовой: с 8:00 до 16:00</Text>
+   <Text>Ориентировочная численность педагогического персонала – 63 человека, учащихся - 400 человек.</Text>
+  </StaffNote>
+  <SoftwareUsed>
+   <SoftwareNote>
+    <Text>В рамках настоящей программы капитального ремонта предусматривается возможность по использованию программного комплекса SCAD Office 21 лицензия № RA.RU.АБ86.Н01187</Text>
+   </SoftwareNote>
+   <Software>
+    <Name>SCAD Office</Name>
+    <Version>(версия 21)</Version>
+    <UsingNote>расчетов конструктивных элементов зданий</UsingNote>
+   </Software>
+  </SoftwareUsed>
+  <StagesInfo>
+   <ReasonNote Title="Этапы строительства">
+    <Text>Строительство предусмотреть в 2 (два) этапа:
+I этап - Выполнение работ по капитальному ремонту нежилого здания (данный этап).
+II этап - Благоустройство территории, наружные инженерные сети и ИТП. Ввод в
+эксплуатацию одновременно.</Text>
+   </ReasonNote>
+  </StagesInfo>
+  <DestroyFunds>
+   <Text>В рамках настоящей программы капитального ремонта не предусматривается возможность по сносу зданий и сооружений, переселением людей, переносом сетей инженерно-технического обеспечения, общее положение остается неизменным, по существующей схеме и фактическому состоянию объекта.</Text>
+  </DestroyFunds>
+  <EnergyEfficiencyLinks>
+   <ProjectDocumentationLink>
+    <DocNumber>2024-00375-01-0-КР</DocNumber>
+    <DocSectionLink>4</DocSectionLink>
+   </ProjectDocumentationLink>
+   <ProjectDocumentationLink>
+    <DocNumber>2024-00375-01-0-ИОС4.2</DocNumber>
+    <DocSectionLink>в</DocSectionLink>
+   </ProjectDocumentationLink>
+   <ProjectDocumentationLink>
+    <DocNumber>2024-00375-01-0-АР</DocNumber>
+    <DocSectionLink>б3</DocSectionLink>
+   </ProjectDocumentationLink>
+  </EnergyEfficiencyLinks>
+  <LandReclamationLink>
+   <Text>В рамках настоящей программы капитального ремонта не предусматриваются возможность/мероприятия, которые привели бы к необходимости рекультивации земель.</Text>
+  </LandReclamationLink>
+  <ProjectDocumentation>
+   <Section3>
+    <Document>
+     <DocName>Раздел 3. Объемно-планировочные и архитектурные решения</DocName>
+     <DocNumber>2024-00375-01-0-АР</DocNumber>
+     <File>
+      <FileName>2024-00375-00-0 АР 05.11.25.pdf.sig</FileName>
+      <FileFormat>sig</FileFormat>
+      <FileChecksum>6F630B48</FileChecksum>
+     </File>
+    </Document>
+   </Section3>
+   <Section4>
+    <Document>
+     <DocName>Раздел 4. Конструктивные решения</DocName>
+     <DocNumber>2024-00375-01-0-КР</DocNumber>
+     <File>
+      <FileName>2024-00375-01-0-КР(Старопименовский 5) 301025.pdf.sig</FileName>
+      <FileFormat>sig</FileFormat>
+      <FileChecksum>9241710B</FileChecksum>
+     </File>
+    </Document>
+   </Section4>
+   <Section5>
+    <ElectricitySupply>
+     <Document>
+      <DocName>Подраздел 1. Система электроснабжения</DocName>
+      <DocNumber>2024-00375-01-0-ИОС1</DocNumber>
+      <File>
+       <FileName>2024-00375-01-0-ИОС1_30.01.26.pdf.sig</FileName>
+       <FileFormat>sig</FileFormat>
+       <FileChecksum>133E046A</FileChecksum>
+      </File>
+     </Document>
+    </ElectricitySupply>
+    <WaterSupply>
+     <Document>
+      <DocName>Часть 1. Система водоснабжения</DocName>
+      <DocNumber>2024-00375-01-0-ИОС2.1</DocNumber>
+      <File>
+       <FileName>2024_00375_01_0_ИОС2_Изм_17 12.01.26.pdf.sig</FileName>
+       <FileFormat>sig</FileFormat>
+       <FileChecksum>7510F34B</FileChecksum>
+      </File>
+     </Document>
+     <Document>
+      <DocName>Часть 2. Спринклерное пожаротушение</DocName>
+      <DocNumber>2024-00375-01-0-ИОС2.2</DocNumber>
+      <File>
+       <FileName>Старопименовский АУПТ v14.pdf.sig</FileName>
+       <FileFormat>sig</FileFormat>
+       <FileChecksum>63320C43</FileChecksum>
+      </File>
+     </Document>
+    </WaterSupply>
+    <WaterRemoval>
+     <Document>
+      <DocName>Подраздел 3. Система водоотведения</DocName>
+      <DocNumber>2024-00375-01-0-ИОС3</DocNumber>
+      <File>
+       <FileName>2024_00375_01_0_ИОС3_Изм_13 05.11.25.pdf.sig</FileName>
+       <FileFormat>sig</FileFormat>
+       <FileChecksum>FF03F71D</FileChecksum>
+      </File>
+     </Document>
+    </WaterRemoval>
+    <HeatingVentilation>
+     <Document>
+      <DocName>Часть 1. Отопление</DocName>
+      <DocNumber>2024-00375-01-0-ИОС4.1</DocNumber>
+      <File>
+       <FileName>6_2024-00375-01-0-ИОС4.1-V5.pdf.sig</FileName>
+       <FileFormat>sig</FileFormat>
+       <FileChecksum>2903F51B</FileChecksum>
+      </File>
+     </Document>
+     <Document>
+      <DocName>Часть 2. Вентиляция, кондиционирование, противодымная защита</DocName>
+      <DocNumber>2024-00375-01-0-ИОС4.2</DocNumber>
+      <File>
+       <FileName>2024-00377-01-0- ИОС4.2 (Старопиневский д 5) 18.12.25.pdf.sig</FileName>
+       <FileFormat>sig</FileFormat>
+       <FileChecksum>B62F4B7F</FileChecksum>
+      </File>
+     </Document>
+    </HeatingVentilation>
+    <Communication>
+     <Document>
+      <DocName>Часть 1. Автоматическая пожарная сигнализация</DocName>
+      <DocNumber>2024-00375-01-0-ИОС5.1</DocNumber>
+      <File>
+       <FileName>01-05-05-01-05_2024-00375-01-0-ИОС5.1-СПС от 2025.11.01.pdf.sig</FileName>
+       <FileFormat>sig</FileFormat>
+       <FileChecksum>3D4F76B2</FileChecksum>
+      </File>
+     </Document>
+     <Document>
+      <DocName>Часть 2. Система оповещения и управления эвакуацией</DocName>
+      <DocNumber>2024‐00375‐01‐0‐ИОС5.2</DocNumber>
+      <File>
+       <FileName>01-05-05-02-06_2024-00375-01-0-ИОС5.2-СОУЭ от 2025.10.21.pdf.sig</FileName>
+       <FileFormat>sig</FileFormat>
+       <FileChecksum>A95C49C4</FileChecksum>
+      </File>
+     </Document>
+     <Document>
+      <DocName>Часть 3. Система охранно-тревожной сигнализации</DocName>
+      <DocNumber>2024-00375-01-0-ИОС5.3</DocNumber>
+      <File>
+       <FileName>01-05-05-03-03_2024-00375-01-0-ИОС5.3-СОТС от 2025.05.05.pdf.sig</FileName>
+       <FileFormat>sig</FileFormat>
+       <FileChecksum>B0FB3BB2</FileChecksum>
+      </File>
+     </Document>
+     <Document>
+      <DocName>Часть 4. Радиотрансляционная сеть</DocName>
+      <DocNumber>2024-00375-01-0-ИОС5.4</DocNumber>
+      <File>
+       <FileName>01-05-05-04-05_2024-00375-01-0-ИОС5.4-РТС от 2025.04.29.pdf.sig</FileName>
+       <FileFormat>sig</FileFormat>
+       <FileChecksum>419F5EBD</FileChecksum>
+      </File>
+     </Document>
+     <Document>
+      <DocName>Часть 5. Система кабельного телевидения</DocName>
+      <DocNumber>2024-00375-01-0-ИОС5.5</DocNumber>
+      <File>
+       <FileName>01-05-05-05-03_2024-00375-01-0-ИОС5.5-СКТ от 2025.04.14.pdf.sig</FileName>
+       <FileFormat>sig</FileFormat>
+       <FileChecksum>E7523E90</FileChecksum>
+      </File>
+     </Document>
+     <Document>
+      <DocName>Часть 6. Структурированная кабельная сеть</DocName>
+      <DocNumber>2024-00375-01-0-ИОС5.6</DocNumber>
+      <File>
+       <FileName>01-05-05-06-04_2024-00375-01-0-ИОС5.6-СКС от 2025.10.28.pdf.sig</FileName>
+       <FileFormat>sig</FileFormat>
+       <FileChecksum>78669816</FileChecksum>
+      </File>
+     </Document>
+     <Document>
+      <DocName>Часть 7. Система охранного теленаблюдения</DocName>
+      <DocNumber>2024-00375-01-0-ИОС5.7</DocNumber>
+      <File>
+       <FileName>01-05-05-07-02_2024-00375-01-0-ИОС5.7-СОТ от 2025.04.21.pdf.sig</FileName>
+       <FileFormat>sig</FileFormat>
+       <FileChecksum>14D6CC77</FileChecksum>
+      </File>
+     </Document>
+     <Document>
+      <DocName>Часть 8. Система контроля и управления доступом</DocName>
+      <DocNumber>2024-00375-01-0-ИОС5.8</DocNumber>
+      <File>
+       <FileName>01-05-05-08-05_2024-00375-01-0-ИОС5.8-СКУД от 2025.10.20.pdf.sig</FileName>
+       <FileFormat>sig</FileFormat>
+       <FileChecksum>1DC1712C</FileChecksum>
+      </File>
+     </Document>
+     <Document>
+      <DocName>Часть 9. Электрочасофикация</DocName>
+      <DocNumber>2024-00375-01-0-ИОС5.9</DocNumber>
+      <File>
+       <FileName>01-05-05-09-03_2024-00375-01-0-ИОС5.9-ЭЧФ от 2025.10.02.pdf.sig</FileName>
+       <FileFormat>sig</FileFormat>
+       <FileChecksum>AC16A4CB</FileChecksum>
+      </File>
+     </Document>
+     <Document>
+      <DocName>Часть 10. Система двухсторонней связи</DocName>
+      <DocNumber>2024-00375-01-0-ИОС5.10</DocNumber>
+      <File>
+       <FileName>01-05-05-10-05_2024-00375-01-0-ИОС5.10-СДС от 2025.10.09.pdf.sig</FileName>
+       <FileFormat>sig</FileFormat>
+       <FileChecksum>BA67E0B1</FileChecksum>
+      </File>
+     </Document>
+     <Document>
+      <DocName>Часть 11. Автоматизация и диспетчеризация</DocName>
+      <DocNumber>2024-00375-01-0-ИОС5.11</DocNumber>
+      <File>
+       <FileName>01-05-05-11-05_2024-00375-01-0-ИОС5.11-АДИС от 2025.10.03.pdf.sig</FileName>
+       <FileFormat>sig</FileFormat>
+       <FileChecksum>B973A4C0</FileChecksum>
+      </File>
+     </Document>
+     <Document>
+      <DocName>Часть 12. Автоматическая установка газового пожаротушения</DocName>
+      <DocNumber>2024-00375-01-0-ИОС5.12</DocNumber>
+      <File>
+       <FileName>2024-00375-01-0-ИОС5.12-АУГПТ_23.12.2025.pdf.sig</FileName>
+       <FileFormat>sig</FileFormat>
+       <FileChecksum>D6125124</FileChecksum>
+      </File>
+     </Document>
+    </Communication>
+   </Section5>
+   <Section7>
+    <Document>
+     <DocName>Раздел 7. Проект организации строительства.</DocName>
+     <DocNumber>2024-00375-01-0-ПОС</DocNumber>
+     <File>
+      <FileName>01_07_00_01_02_ПОС_пер_Старопименовский,_д_5.pdf.sig</FileName>
+      <FileFormat>sig</FileFormat>
+      <FileChecksum>AD9A5FE9</FileChecksum>
+     </File>
+    </Document>
+   </Section7>
+   <Section8>
+    <Document>
+     <DocName>Подраздел 1. Акустический расчет</DocName>
+     <DocNumber>2024-00375-01-0-ООС1</DocNumber>
+     <File>
+      <FileName>2024-00375-03-0-ООС1_V4.pdf.sig</FileName>
+      <FileFormat>sig</FileFormat>
+      <FileChecksum>8EE0647C</FileChecksum>
+     </File>
+    </Document>
+    <Document>
+     <DocName>Подраздел 2. Мероприятия по обращению с отходами</DocName>
+     <DocNumber>2024-00375-01-0-ООС2</DocNumber>
+     <File>
+      <FileName>2024-00375-01-0-ООС2_V2.pdf.sig</FileName>
+      <FileFormat>sig</FileFormat>
+      <FileChecksum>71BDD142</FileChecksum>
+     </File>
+    </Document>
+   </Section8>
+   <Section9>
+    <Document>
+     <DocName>Раздел 9. Мероприятия по обеспечению пожарной безопасности</DocName>
+     <DocNumber>2024-00375-01-0-ПБ</DocNumber>
+     <File>
+      <FileName>2024-00375-01-0-ПБ1 v7.pdf.sig</FileName>
+      <FileFormat>sig</FileFormat>
+      <FileChecksum>4F2ADE40</FileChecksum>
+     </File>
+    </Document>
+   </Section9>
+   <Section10>
+    <Document>
+     <DocName>Часть 1. Мероприятия по противодействию террористическим актам</DocName>
+     <DocNumber>2024-00375-01-0-ПТА</DocNumber>
+     <File>
+      <FileName>Раздел ПД № 10 Подраздел №1 ПТА_Старопименовский_22.04.2025.pdf.sig</FileName>
+      <FileFormat>sig</FileFormat>
+      <FileChecksum>748E5C6C</FileChecksum>
+     </File>
+    </Document>
+    <Document>
+     <DocName>Часть 2. Требования к обеспечению безопасной эксплуатации объектов капитального строительства</DocName>
+     <DocNumber>2024-00375-01-0-ТБЭ</DocNumber>
+     <File>
+      <FileName>2024-00375-00-0-ТБЭ v2.pdf.sig</FileName>
+      <FileFormat>sig</FileFormat>
+      <FileChecksum>A42DE082</FileChecksum>
+     </File>
+    </Document>
+   </Section10>
+   <Section11>
+    <Document>
+     <DocName>Раздел 11. Мероприятия по обеспечению доступа инвалидов к объекту капитального строительства</DocName>
+     <DocNumber>2024-00375-01-0-ОДИ</DocNumber>
+     <File>
+      <FileName>ОДИ 2024-00375-00-0 ОДИ v6.pdf.sig</FileName>
+      <FileFormat>sig</FileFormat>
+      <FileChecksum>5B3F5B08</FileChecksum>
+     </File>
+    </Document>
+   </Section11>
+  </ProjectDocumentation>
+ </NonIndustrialObject>
+ <DesignerNote>
+  <Text>Существующее здание школы построено в 1895 году по индивидуальному проекту в осях 1-17/А-К с последующей реконструкцией в 1952 году и пристройкой в осях 17-21/А-Л в 1973 году.</Text>
+  <Text>Здание 2х-5этажное сложной формы, с подвальным этажом, неэксплуатируемой скатной кровлей.</Text>
+  <Text>Разработкой проектной документации предусмотрено:</Text>
+  <Text>- Ремонт и утепление фасадов</Text>
+  <Text>- Замена наружных оконных и дверных блоков, витражей</Text>
+  <Text>- Замена внутренних перегородок с последующей их отделкой</Text>
+  <Text>- Замена облицовки внутренних несущих стен</Text>
+  <Text>- Замена системы холодного водоснабжения</Text>
+  <Text>- Замена системы горячего водоснабжения</Text>
+  <Text>- Замена системы отопления</Text>
+  <Text>- Замена системы электроснабжения</Text>
+  <Text>- Замена системы вентиляции</Text>
+  <Text>- Замена слаботочных систем.</Text>
+  <Text>- Восстановительный ремонт после замены инженерных систем</Text>
+ </DesignerNote>
+ <DesignerAssurance>
+  <Assurance>
+   <Text>Проектная документация для объекта разработана в соответствии с заданием на проектирование, градостроительным регламентом, документами об использовании земельного участка для строительства, техническими регламентами, в том числе устанавливающими требования по обеспечению безопасной эксплуатации зданий, строений, сооружений и безопасного использования прилегающих к ним территорий, и с соблюдением технических условий. Проект предусматривает мероприятия, обеспечивающие конструктивную надежность, взрывопожарную и пожарную безопасность объекта, устойчивую работу объекта в чрезвычайных ситуациях, защиту окружающей природной среды при его эксплуатации, отвечает требованиям Градостроительного Кодекса РФ и федерального закона РФ от 30.12.2003 №384-ФЗ «Технический регламент о безопасности зданий и сооружений».</Text>
+  </Assurance>
+  <Signer engineeringRegistry="да">
+   <FamilyName>Нигматулин</FamilyName>
+   <FirstName>Наиль</FirstName>
+   <SecondName>Равильевич</SecondName>
+   <Position>Заместитель директора</Position>
+  </Signer>
+ </DesignerAssurance>
+</ExplanatoryNote>

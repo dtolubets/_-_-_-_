@@ -1,0 +1,68 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+   <head>
+      
+      <META http-equiv="Content-Type" content="text/html; charset=windows-1251"></META>
+   </head>
+   <body>
+      <style>
+            * {font-family: "Times New Roman", Times, serif;text-aligh: justify;}
+            @page report {margin:3.0cm 2.0cm 3.0cm 3.0cm;}
+            div.report{page:report;}
+            p, div {margin:0;padding:0;}
+            p {text-indent: 0.1in;font-size:12pt;position:relative;}
+            li {text-indent: 0.1in;font-size:12pt;position:relative;}
+            i {font-style: italic;}    
+            p.reportUpTitle {text-align: right;font-weight:bold;}
+            p.reportTitle, p.reportSubTitle {text-align:center;font-weight:bold;}
+            
+            table {width: 100%;border-collapse:collapse;}
+                table thead td{text-align:center;vertical-align:middle;font-weight:bold}
+                table td{border:1px solid #000;vertical-align:top;padding:2pt; margin: 2pt;font-size:10pt;}
+            
+            table.reportSigners{width:100%;border-collapse:collapse;}
+                table.reportSigners td {font-size:12pt;border: none}
+    </style>
+      <div class="content">
+         <div class="report">
+            <p class="reportUpTitle">Дело № МГЭ/57945-1/9</p><br></br>
+            <p class="reportTitle">Замечания Государственной экспертизы</p>
+            <p class="reportTitle">по проектной документации</p>
+            <p class="reportTitle">Капитальный ремонт объекта Государственного бюджетного общеобразовательного учреждения города Москвы Школа № 1574. 1 Этап</p>
+            <p class="reportTitle">по адресу: Старопименовский переулок, д. 5 (ЦАО, район Тверской)</p><br></br>
+            <table>
+               <thead>
+                  <tr>
+                     <td style="width:0.6cm;">№<br></br>пп</td>
+                     <td style="width:3cm;">Раздел ПД</td>
+                     <td style="width:3cm;">Эксперт</td>
+                     <td style="width:2.5cm;">Адресная<br></br>ссылка</td>
+                     <td style="width:7cm;">Содержание замечаний<br></br>государственного эксперта</td>
+                     <td style="width:5cm;">Выводы</td>
+                  </tr>
+               </thead>
+               <tbody></tbody>
+            </table><br></br>
+            <table class="reportSigners">
+               <col width="10%"></col>
+               <col width="auto"></col>
+               <col width="25%"></col>
+               <tr>
+                  <td></td>
+                  <td>Эксперт по проектной документации</td>
+                  <td>Е.Л. Татаринова</td>
+               </tr>
+               <tr>
+                  <td></td>
+                  <td>Заместитель начальника отдела</td>
+                  <td>С.А. Шведов</td>
+               </tr>
+               <tr>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+               </tr>
+            </table>
+         </div>
+      </div>
+   </body>
+</html>

@@ -1,0 +1,127 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+   <head>
+      
+      <META http-equiv="Content-Type" content="text/html; charset=windows-1251"></META>
+   </head>
+   <body>
+      <style>
+            * {font-family: "Times New Roman", Times, serif;text-aligh: justify;}
+            @page report {margin:3.0cm 2.0cm 3.0cm 3.0cm;}
+            div.report{page:report;}
+            p, div {margin:0;padding:0;}
+            p {text-indent: 0.1in;font-size:12pt;position:relative;}
+            li {text-indent: 0.1in;font-size:12pt;position:relative;}
+            i {font-style: italic;}    
+            p.reportUpTitle {text-align: right;font-weight:bold;}
+            p.reportTitle, p.reportSubTitle {text-align:center;font-weight:bold;}
+            
+            table {width: 100%;border-collapse:collapse;}
+                table thead td{text-align:center;vertical-align:middle;font-weight:bold}
+                table td{border:1px solid #000;vertical-align:top;padding:2pt; margin: 2pt;font-size:10pt;}
+            
+            table.reportSigners{width:100%;border-collapse:collapse;}
+                table.reportSigners td {font-size:12pt;border: none}
+    </style>
+      <div class="content">
+         <div class="report">
+            <p class="reportUpTitle">Дело № МГЭ/52091-2/5</p><br></br>
+            <p class="reportTitle">Замечания Государственной экспертизы</p>
+            <p class="reportTitle">по проектной документации</p>
+            <p class="reportTitle">Капитальный ремонт здания Государственного бюджетного общеобразовательного учреждения города Москвы «Школа № 236». 1 этап</p>
+            <p class="reportTitle">по адресу: Клязьминская улица, д. 7, к. 4 (САО, район Дмитровский)</p><br></br>
+            <table>
+               <thead>
+                  <tr>
+                     <td style="width:0.6cm;">№<br></br>пп</td>
+                     <td style="width:3cm;">Раздел ПД</td>
+                     <td style="width:3cm;">Эксперт</td>
+                     <td style="width:2.5cm;">Адресная<br></br>ссылка</td>
+                     <td style="width:7cm;">Содержание замечаний<br></br>государственного эксперта</td>
+                     <td style="width:5cm;">Выводы</td>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td>1</td>
+                     <td rowspan="5">9 Мероприятия по обеспечению пожарной безопасности</td>
+                     <td rowspan="5">Бурда А.Г.</td>
+                     <td>Раздел 9</td>
+                     <td><p class="MsoNormal" style="text-align:justify;text-indent:35.45pt">
+	<span style="font-size:14.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;">Проектные решения, влияющие на обеспечение пожарной безопасности объекта, необходимо обосновать в соответствии с заданием на проектирование, а также с учетом исходных данных, в том числе результатов обследования технического состояния объекта в части работ по капитальному ремонту.<o:p></o:p></span></p>
+Ссылка на нормативный документ: ч.12 ст.48 Федерального закона от 29.12.2004 № 190-ФЗ «Градостроительный кодекс Российской Федерации», ч.4 ст.4 Федерального закона от 22.07.2008 № 123-ФЗ «Технический регламент о требованиях пожарной безопасности» (далее – №123-ФЗ)	</td>
+                     <td rowspan="5"></td>
+                  </tr>
+                  <tr>
+                     <td>2</td>
+                     <td>Раздел 9</td>
+                     <td><p class="MsoNormal" style="text-align:justify;text-indent:35.45pt">
+	<span style="font-size:14.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;">Проектные решения раздела не соответствуют требованиям технических регламентов и требованиям к содержанию раздела.<o:p></o:p></span></p>
+<p>
+	 </p>
+<p class="MsoNormal" style="text-align:justify;text-indent:35.45pt">
+	<span style="font-size:14.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;">Не обоснована разработка раздела 9 «Мероприятия по обеспечению пожарной безопасности» (необходимость разработки раздела 9 не указана в задании на разработку проектной документации объекта).<o:p></o:p></span></p>
+Ссылка на нормативный документ: п.3.3 Положения о составе разделов проектной документации и требованиях к их содержанию, утвержденного постановлением Правительства Российской Федерации от 16.02.2008 № 87 (далее – Положение).	</td>
+                  </tr>
+                  <tr>
+                     <td>3</td>
+                     <td>Раздел 9</td>
+                     <td><p class="MsoNormal" style="text-align:justify;text-indent:35.45pt">
+	<span style="font-size:14.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;">Не обоснованы пределы огнестойкости несущих строительных конструкций здания, противопожарных преград (стен, перегородок, перекрытий), в том числе:<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify;text-indent:35.45pt">
+	<span style="font-size:14.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;">несущих конструкций и конструкций, отвечающих за геометрическую неизменяемость здания при пожаре (включая укрепляемые и восстанавливаемые существующие конструкции здания, заменяемые конструкции из металла);<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify;text-indent:35.45pt">
+	<span style="font-size:14.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;">заменяемых стен, перегородок (в том числе светопрозрачных), отделяющих общие пути эвакуации;<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify;text-indent:35.45pt">
+	<span style="font-size:14.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;">заменяемых несущих металлических конструкций, используемых в перекрытиях и покрытиях (балки, связи и т.д.) Пределы огнестойкости несущих строительных конструкций с огнезащитой определить одним из следующих методов: испытаниями строительных конструкций с нанесенной огнезащитой, при воздействии нагрузки, в соответствии с ГОСТ 30247.1; расчетно-аналитическим методом, включающим совместное решение прочностной задачи, с учетом заданных условий нагружения и опирания конструкции, и теплотехнической задачи с использованием экспериментальных данных по огнезащитной эффективности средства огнезащиты. При этом для стальных конструкций дополнительно должно быть проведено огневое испытание образца стальной колонны или горизонтальной балки с учетом приложения к ним статической нагрузки в соответствии с методами, указанных в приложениях Б и В ГОСТ Р 53295;<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify;text-indent:35.45pt">
+	<span style="font-size:14.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;">заменяемых перекрытий, в том числе при применении конструкций из сборных материалов (в том числе профлистов, балок и т.д.) (ст.88, ст.137 № 123-ФЗ, п.5.2.1, п.5.2.2, п.5.2.5, п.5.3.2, п.5.3.6, п.5.4.18 СП 2.13130.2020).<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify;text-indent:35.45pt">
+	<span style="font-size:14.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;">Выбор вида огнезащиты должен осуществляется с учетом режима эксплуатации объекта защиты и установленных сроков эксплуатации огнезащитного покрытия. Не допускается использовать огнезащитные покрытия и пропитки в местах, исключающих возможность периодической замены или восстановления, а также контроля их состояния (ст.6 № 123-ФЗ, п.5.4.3 СП 2.13130.2020).<o:p></o:p></span></p>
+Ссылка на нормативный документ: ст.6, ст.88, ст.87 табл.21 № 123-ФЗ, СП 2.13130.2020, СП 4.13130.2013.</td>
+                  </tr>
+                  <tr>
+                     <td>4</td>
+                     <td>Раздел 9</td>
+                     <td><p class="MsoNormal" style="text-align:justify;text-indent:35.45pt">
+	<span style="font-size:14.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;">Ширина глухих участков наружных стен в местах примыкания заменяемых противопожарных перегородок предусмотрена менее 1,0 м (п.5.3.6 СП 2.13130.2020).<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify;text-indent:35.45pt">
+	<span style="font-size:14.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;">Ширина простенков в местах примыкания заменяемых нормируемых по огнестойкости внутренних стен и перегородок выполнены шириной менее 0,8 м (п.5.4.18б СП 2.13130.2020).<o:p></o:p></span></p>
+<p>
+	 </p>
+<p class="MsoNormal" style="text-align:justify;text-indent:35.45pt">
+	<span style="font-size:14.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;">Не обосновано размещение заменяемых противопожарных преград в местах примыкания одной части здания к другой под углом менее 135° (в том числе в части заполнения заменяемых оконных проемов) (п.5.4.14 СП 2.13130.2020).<o:p></o:p></span></p>
+Ссылка на нормативный документ: ч.6 № 123-ФЗ, СП 2.13130.2020.	</td>
+                  </tr>
+                  <tr>
+                     <td>5</td>
+                     <td>Раздел 9</td>
+                     <td><p class="MsoNormal" style="text-align:justify;text-indent:35.45pt">
+	<span style="font-size: 14pt; text-indent: 35.45pt;">Не обоснованы решения по устройству вытяжной противодымной вентиляции из всех участков коридоров или помещений, при сообщении с незадымляемыми лестничными клетками типа Н2, с тамбур-шлюзом с подпором воздуха (ч.3 ст.65 № 123-ФЗ, п. 7.1, п.7.2 СП 7.13130.2013). </span></p>
+Ссылка на нормативный документ: ст.6. ч.3 ст.65 № 123-ФЗ, СП 7.13130.2013.</td>
+                  </tr>
+               </tbody>
+            </table><br></br>
+            <table class="reportSigners">
+               <col width="10%"></col>
+               <col width="auto"></col>
+               <col width="25%"></col>
+               <tr>
+                  <td></td>
+                  <td>Начальник отдела</td>
+                  <td>А.Г. Бурда</td>
+               </tr>
+               <tr>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+               </tr>
+               <tr>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+               </tr>
+            </table>
+         </div>
+      </div>
+   </body>
+</html>

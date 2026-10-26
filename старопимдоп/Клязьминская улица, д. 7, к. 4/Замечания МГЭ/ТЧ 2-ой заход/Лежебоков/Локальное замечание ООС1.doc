@@ -1,0 +1,123 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+   <head>
+      
+      <META http-equiv="Content-Type" content="text/html; charset=windows-1251"></META>
+   </head>
+   <body>
+      <style>
+            * {font-family: "Times New Roman", Times, serif;text-aligh: justify;}
+            @page report {margin:3.0cm 2.0cm 3.0cm 3.0cm;}
+            div.report{page:report;}
+            p, div {margin:0;padding:0;}
+            p {text-indent: 0.1in;font-size:12pt;position:relative;}
+            li {text-indent: 0.1in;font-size:12pt;position:relative;}
+            i {font-style: italic;}    
+            p.reportUpTitle {text-align: right;font-weight:bold;}
+            p.reportTitle, p.reportSubTitle {text-align:center;font-weight:bold;}
+            
+            table {width: 100%;border-collapse:collapse;}
+                table thead td{text-align:center;vertical-align:middle;font-weight:bold}
+                table td{border:1px solid #000;vertical-align:top;padding:2pt; margin: 2pt;font-size:10pt;}
+            
+            table.reportSigners{width:100%;border-collapse:collapse;}
+                table.reportSigners td {font-size:12pt;border: none}
+    </style>
+      <div class="content">
+         <div class="report">
+            <p class="reportUpTitle">Дело № МГЭ/52091-2/5</p><br></br>
+            <p class="reportTitle">Замечания Государственной экспертизы</p>
+            <p class="reportTitle">по проектной документации</p>
+            <p class="reportTitle">Капитальный ремонт здания Государственного бюджетного общеобразовательного учреждения города Москвы «Школа № 236». 1 этап</p>
+            <p class="reportTitle">по адресу: Клязьминская улица, д. 7, к. 4 (САО, район Дмитровский)</p><br></br>
+            <table>
+               <thead>
+                  <tr>
+                     <td style="width:0.6cm;">№<br></br>пп</td>
+                     <td style="width:3cm;">Раздел ПД</td>
+                     <td style="width:3cm;">Эксперт</td>
+                     <td style="width:2.5cm;">Адресная<br></br>ссылка</td>
+                     <td style="width:7cm;">Содержание замечаний<br></br>государственного эксперта</td>
+                     <td style="width:5cm;">Выводы</td>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td>1</td>
+                     <td rowspan="6">8 Мероприятия по охране окружающей среды</td>
+                     <td rowspan="6">Лежебоков В.В.</td>
+                     <td>Раздел 3, Раздел 8</td>
+                     <td><p>
+	Не представлены сведения о предусматриваемой звукоизоляции транспортного шума устанавливаемых окон в режиме проветривания, обоснованной акустическим расчетом.</p>
+Ссылка на нормативный документ: п. 100 СанПиН 1.2.3685-21</td>
+                     <td rowspan="6"><p>
+	Проектная документация возвращается на доработку.</p>
+</td>
+                  </tr>
+                  <tr>
+                     <td>2</td>
+                     <td>Раздел 8</td>
+                     <td><p>
+	Не обоснован выбор расчетных точек при проведении акустических расчетов на периоды строительства и эксплуатации.</p>
+Ссылка на нормативный документ: п. 100 СанПиН 1.2.3685-21</td>
+                  </tr>
+                  <tr>
+                     <td>3</td>
+                     <td>Раздел 8 </td>
+                     <td><p style="margin-top:0cm;margin-right:4.0pt;margin-bottom:0cm;margin-left:6.0pt;
+margin-bottom:.0001pt">
+	Достаточность шумозащитных мероприятий на периоды строительства и эксплуатации не подтверждена акустическим расчетом.</p>
+Ссылка на нормативный документ: п. 100 СанПиН 1.2.3685-21</td>
+                  </tr>
+                  <tr>
+                     <td>4</td>
+                     <td>Раздел 8, Раздел 3, Подраздел 5.4, Раздел 7</td>
+                     <td><p style="margin-top:0cm;margin-right:6.0pt;margin-bottom:0cm;margin-left:8.0pt;
+margin-bottom:.0001pt">
+	Имеются расхождения между разделами МООС, АР, ОВиК в части шумо- и виброзащитных мероприятий на период эксплуатации, между разделами МООС и ПОС в части шумозащитных мероприятий на период ведения строительных работ.<u1:p></u1:p><o:p></o:p></p>
+<p>
+	 </p>
+Ссылка на нормативный документ: п.п. 3, 6 Положения о составе разделов проектной документации и требованиях к их содержанию, утвержденного постановлением Правительства РФ от 16.02.2008 № 87, приказ Министерства регионального развития РФ от 02.04.2009г. №108 «Об утверждении правил выполнения и оформления текстовых и графических материалов, входящих в состав проектной и рабочей документации» (п. 7.1.4 ГОСТ Р 21.101-2020)</td>
+                  </tr>
+                  <tr>
+                     <td>5</td>
+                     <td>Подраздел 5.4</td>
+                     <td><p>
+	Решения систем отопления, вентиляции и кондиционирования привести в соответствие с требованиями СП 2.4.3648-20, СП 2.1.3678-20 (для помещений медицинского назначения), СанПиН 2.3/2.4.3590-20 (для помещений пищеблока), представить сведения об оборудовании лаборантской и учебного кабинета химии вытяжными шкафами.</p>
+Ссылка на нормативный документ: п. 3.4.8 СП 2.4.3648-20; п. 4.5 СП 2.1.3678-20; п.п. 2.12, 2.13, 2.15 СанПиН 2.3/2.4.3590-20</td>
+                  </tr>
+                  <tr>
+                     <td>6</td>
+                     <td>Раздел 7</td>
+                     <td><p style="margin-top:0cm;margin-right:4.0pt;margin-bottom:0cm;margin-left:4.0pt;
+margin-bottom:.0001pt">
+	Размещение санитарно-бытовых помещений для строительных рабочих, организация питания требуют корректировки в соответствии с требованиями СП 2.2.3670-20.<o:p></o:p></p>
+<p>
+	 </p>
+Ссылка на нормативный документ: п. 8.21 СП 2.2.3670-20</td>
+                  </tr>
+               </tbody>
+            </table><br></br>
+            <table class="reportSigners">
+               <col width="10%"></col>
+               <col width="auto"></col>
+               <col width="25%"></col>
+               <tr>
+                  <td></td>
+                  <td>Государственный эксперт - санитарный врач</td>
+                  <td>В.В. Лежебоков</td>
+               </tr>
+               <tr>
+                  <td></td>
+                  <td>Начальник отдела</td>
+                  <td>Д.Л. Кирносов</td>
+               </tr>
+               <tr>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+               </tr>
+            </table>
+         </div>
+      </div>
+   </body>
+</html>
