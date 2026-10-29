@@ -1,0 +1,683 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Гребенщиков Станислав Викторович</Author>
+  <LastAuthor>Шутов Александр Юрьевич</LastAuthor>
+  <LastPrinted>2016-10-27T21:46:04Z</LastPrinted>
+  <Created>2016-09-29T08:35:54Z</Created>
+  <LastSaved>2016-11-24T08:53:21Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>11430</WindowHeight>
+  <WindowWidth>20175</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2332575254048">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#D9D9D9" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2332575254068">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#D9D9D9" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2332575251552">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#D9D9D9" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2332575251572">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#D9D9D9" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2332575251592">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#D9D9D9" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2332575251612">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#D9D9D9" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2332575251632">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#D9D9D9" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2332575251652">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#D9D9D9" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="9"
+    ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="9"
+    ss:Color="#000000"/>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="14"
+    ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s67">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="14"
+    ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s69">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="12"
+    ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s71">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s72">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="9"
+    ss:Color="#000000"/>
+   <NumberFormat ss:Format="Short Date"/>
+  </Style>
+  <Style ss:ID="s73">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="9"
+    ss:Color="#000000" ss:Italic="1"/>
+  </Style>
+  <Style ss:ID="s75">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s76">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="9"
+    ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#D0CECE" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s77">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="9"
+    ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s78">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="9"
+    ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s79">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="9"
+    ss:Color="#000000"/>
+   <NumberFormat ss:Format="Short Date"/>
+  </Style>
+  <Style ss:ID="s80">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="9"
+    ss:Color="#000000"/>
+   <NumberFormat ss:Format="Short Date"/>
+  </Style>
+  <Style ss:ID="s81">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="9"
+    ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#D0CECE" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s82">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="9"
+    ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s83">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="9"
+    ss:Bold="1"/>
+   <NumberFormat ss:Format="Short Date"/>
+  </Style>
+  <Style ss:ID="s105">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="9"
+    ss:Color="#000000"/>
+   <Interior ss:Color="#E2EFDA" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s106">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="9"
+    ss:Bold="1"/>
+   <Interior ss:Color="#E2EFDA" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="Short Date"/>
+  </Style>
+  <Style ss:ID="s107">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="9"
+    ss:Color="#000000"/>
+   <Interior ss:Color="#E2EFDA" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="Short Date"/>
+  </Style>
+  <Style ss:ID="s108">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="9"
+    ss:Bold="1"/>
+   <Interior ss:Color="#DDEBF7" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="Short Date"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Сведения">
+  <Table ss:ExpandedColumnCount="10" ss:ExpandedRowCount="51" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s62" ss:DefaultRowHeight="12">
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="318.75" ss:Span="1"/>
+   <Column ss:Index="3" ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="100.5"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="103.5"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="180"/>
+   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="66.75"/>
+   <Column ss:StyleID="s62" ss:Width="64.5"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="71.25"/>
+   <Column ss:StyleID="s62" ss:Width="94.5"/>
+   <Column ss:StyleID="s62" ss:Width="108.75"/>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:MergeAcross="4" ss:StyleID="s65"><Data ss:Type="String">Сведения о прохождении</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:MergeAcross="4" ss:StyleID="s67"><Data ss:Type="String">5-я улица Соколиной Горы, д. 14, район Соколиная Гора Восточного административного округа города Москвы</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:MergeAcross="4" ss:StyleID="s69"><Data ss:Type="String">Капитальный ремонт общеобразовательного учреждения (ГБОУ «Школа № 429»). 1 Этап</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75">
+    <Cell ss:MergeAcross="4" ss:StyleID="s71"><Data ss:Type="String">Государственная экспертиза</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Ведущий эксперт: Кручинина Елена Николаевна</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Управление производственных и уникальных объектов</Data></Cell>
+    <Cell ss:Index="4" ss:MergeAcross="1" ss:StyleID="s75"><Data ss:Type="String">77-5405/26-(0)-0 от 19.08.2026</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75">
+    <Cell ss:Index="4" ss:MergeAcross="1" ss:StyleID="s75"><Data ss:Type="String">МГЭ/58761-1/5 от 09.09.2026</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">График прохождения</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Дата</Data></Cell>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s77"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Дата начала экспертизы</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">06.10.2026</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Плановая дата выдачи сводного замечания (Техническая часть)</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">14.10.2026</Data></Cell>
+    <Cell ss:Index="4" ss:StyleID="s77"><Data ss:Type="String">Сводное замечание</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Сводное заключение</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Плановая дата выдачи сводного замечания (Сметная часть)</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Утверждено: 14.10.2026</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Плановая дата выдачи сводного заключения</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">18.11.2026</Data></Cell>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s80"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="4" ss:StyleID="s72"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24">
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Раздел</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Ответственный эксперт / Подразделение</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Замечания по разделу</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Заключение по разделу</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s62"/>
+   </Row>
+   <Row ss:Height="48">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Пояснительная записка</Data></Cell>
+    <Cell ss:StyleID="s83"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Кручинина Елена Николаевна</B><Font>, архитектурно-планировочный отдел, государственный эксперт-архитектор, 8-495-620-20-00, доб. 56405, 8-901-187-53-87, Kruchinina.EN@mge.mos.ru&#10;</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s83"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>8 / 0</B><Font>&#10;Утверждено</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s79"/>
+    <Cell ss:Index="6" ss:StyleID="s62"/>
+   </Row>
+   <Row ss:Height="48">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Объемно-планировочные и архитектурные решения</Data></Cell>
+    <Cell ss:StyleID="s83"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Кручинина Елена Николаевна</B><Font>, архитектурно-планировочный отдел, государственный эксперт-архитектор, 8-495-620-20-00, доб. 56405, 8-901-187-53-87, Kruchinina.EN@mge.mos.ru&#10;</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s83"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>8 / 0</B><Font>&#10;Утверждено</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s79"/>
+    <Cell ss:Index="6" ss:StyleID="s62"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24">
+    <Cell ss:MergeAcross="3" ss:StyleID="m2332575251552"><Data ss:Type="String">Архитектурные решения</Data></Cell>
+   </Row>
+   <Row ss:Height="108">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Ведомость объёмов работ</Data></Cell>
+    <Cell ss:StyleID="s83"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Курильчик Лилия Павловна</B><Font> (делегирование прав от Швырева Н.А. на период с 26.10.2026 по 03.11.2026) архитектурно-планировочный отдел, эксперт по проектной документации, 8 (926) 933-32-84, Kurilchik.LP@mge.mos.ru&#10;</Font><B>Курильчик Лилия Павловна</B><Font> (делегирование прав от Швырева Н.А. на период с 26.10.2026 по 03.11.2026) архитектурно-планировочный отдел, эксперт по проектной документации, 8 (926) 933-32-84, Kurilchik.LP@mge.mos.ru&#10;</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s108"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>4 / 1</B><Font>&#10;Утверждено</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s79"/>
+    <Cell ss:Index="6" ss:StyleID="s62"/>
+   </Row>
+   <Row ss:Height="60">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Энергоэффективность</Data></Cell>
+    <Cell ss:StyleID="s83"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Мешкова Марина Александровна</B><Font> (делегирование прав от Нестерова О.Л. на период с 26.10.2026 по 07.11.2026) сектор энергоэффективности зданий, государственный эксперт - инженер, 8 (900) 146-82-68, Meshkova.MA@mge.mos.ru&#10;</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s83"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>1 / 0</B><Font>&#10;Утверждено</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s79"/>
+    <Cell ss:Index="6" ss:StyleID="s62"/>
+   </Row>
+   <Row ss:Height="48">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Конструктивные решения</Data></Cell>
+    <Cell ss:StyleID="s83"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Валиулин Дмитрий Исраелевич</B><Font>, отдел строительных конструкций, государственный эксперт - конструктор, +7 906 707 30 68, Valiulin.DI@mge.mos.ru&#10;</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s83"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>3 / 0</B><Font>&#10;Утверждено</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s79"/>
+    <Cell ss:Index="6" ss:StyleID="s62"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24">
+    <Cell ss:MergeAcross="3" ss:StyleID="m2332575251572"><Data ss:Type="String">Конструктивные решения</Data></Cell>
+   </Row>
+   <Row ss:Height="84">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Ведомость объёмов работ</Data></Cell>
+    <Cell ss:StyleID="s83"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Симановская Татьяна Леонидовна</B><Font>, отдел строительных конструкций, эксперт по проектной документации, +7(916) 997-15-08, cimtan2004@yandex.ru (будущее делегирование прав Седова Н.А. на период с 27.10.2026 по 06.11.2026, отдел строительных конструкций, эксперт по проектной документации, +7 9670342953, Sedova.NA@mge.mos.ru)&#10;</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s83"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>4 / 0</B><Font>&#10;Утверждено</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s79"/>
+    <Cell ss:Index="6" ss:StyleID="s62"/>
+   </Row>
+   <Row ss:Height="48">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Конструктивные расчеты основного здания</Data></Cell>
+    <Cell ss:StyleID="s83"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Валиулин Дмитрий Исраелевич</B><Font>, отдел строительных конструкций, государственный эксперт - конструктор, +7 906 707 30 68, Valiulin.DI@mge.mos.ru&#10;</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s83"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>2 / 0</B><Font>&#10;Утверждено</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s79"/>
+    <Cell ss:Index="6" ss:StyleID="s62"/>
+   </Row>
+   <Row ss:Height="48">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Обследования состояния грунтов оснований зданий и сооружений, их строительных конструкций</Data></Cell>
+    <Cell ss:StyleID="s83"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Валиулин Дмитрий Исраелевич</B><Font>, отдел строительных конструкций, государственный эксперт - конструктор, +7 906 707 30 68, Valiulin.DI@mge.mos.ru&#10;</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s83"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>3 / 0</B><Font>&#10;Утверждено</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s79"/>
+    <Cell ss:Index="6" ss:StyleID="s62"/>
+   </Row>
+   <Row ss:Height="48">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Система электроснабжения</Data></Cell>
+    <Cell ss:StyleID="s83"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Кадкина Ольга Васильевна</B><Font>, сектор автоматизации и слаботочных систем, государственный эксперт - инженер, 8-495-620-20-00, доб. 56417, Kadkina.OV@mge.mos.ru&#10;</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s83"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>12 / 0</B><Font>&#10;Утверждено</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s79"/>
+    <Cell ss:Index="6" ss:StyleID="s62"/>
+   </Row>
+   <Row ss:Height="48">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Система водоснабжения</Data></Cell>
+    <Cell ss:StyleID="s83"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Михайлов Михаил Юрьевич</B><Font>, отдел водоснабжения и канализации, государственный эксперт - инженер, 89660715466, Mikhaylov.MY@mge.mos.ru&#10;</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s83"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>5 / 0</B><Font>&#10;Утверждено</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s79"/>
+    <Cell ss:Index="6" ss:StyleID="s62"/>
+   </Row>
+   <Row ss:Height="48">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Система водоотведения</Data></Cell>
+    <Cell ss:StyleID="s83"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Михайлов Михаил Юрьевич</B><Font>, отдел водоснабжения и канализации, государственный эксперт - инженер, 89660715466, Mikhaylov.MY@mge.mos.ru&#10;</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s83"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>4 / 0</B><Font>&#10;Утверждено</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s79"/>
+    <Cell ss:Index="6" ss:StyleID="s62"/>
+   </Row>
+   <Row ss:Height="48">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Отопление, вентиляция и кондиционирование воздуха, тепловые сети</Data></Cell>
+    <Cell ss:StyleID="s83"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Филатова Ольга Викторовна</B><Font>, отдел теплоэнергетики, государственный эксперт - инженер, 8-495-620-20-00, доб. 30925, +7 915 149 91 86, Filatova.OV@mge.mos.ru&#10;</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s108"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>6 / 2</B><Font>&#10;Утверждено</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s79"/>
+    <Cell ss:Index="6" ss:StyleID="s62"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24">
+    <Cell ss:MergeAcross="3" ss:StyleID="m2332575251592"><Data ss:Type="String">Электроснабжение и автоматика</Data></Cell>
+   </Row>
+   <Row ss:Height="60">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Автоматизация оборудования и сетей инженерно-технического обеспечения (АИО)</Data></Cell>
+    <Cell ss:StyleID="s83"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Немытов Василий Николаевич</B><Font> (делегирование прав от Жула А.Г. на период с 15.10.2026 по 28.10.2026) отдел автоматизации и диспетчеризации инженерных систем, государственный эксперт - инженер, 8 916 1398087, Nemytov.VN@mge.mos.ru&#10;</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s83"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>8 / 0</B><Font>&#10;Утверждено</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s79"/>
+    <Cell ss:Index="6" ss:StyleID="s62"/>
+   </Row>
+   <Row ss:Height="60">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Автоматизация систем противопожарной защиты (ААПТ)</Data></Cell>
+    <Cell ss:StyleID="s83"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Немытов Василий Николаевич</B><Font> (делегирование прав от Жула А.Г. на период с 15.10.2026 по 28.10.2026) отдел автоматизации и диспетчеризации инженерных систем, государственный эксперт - инженер, 8 916 1398087, Nemytov.VN@mge.mos.ru&#10;</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s83"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>5 / 0</B><Font>&#10;Утверждено</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s79"/>
+    <Cell ss:Index="6" ss:StyleID="s62"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24">
+    <Cell ss:MergeAcross="3" ss:StyleID="m2332575251612"><Data ss:Type="String">Сети связи</Data></Cell>
+   </Row>
+   <Row ss:Height="36">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Внутренние сети связи</Data></Cell>
+    <Cell ss:StyleID="s83"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Абросимов Леонид Андреевич</B><Font>, сектор систем связи, государственный эксперт - инженер, +7 925-580-45-27, Abrosimov.LA@mge.mos.ru&#10;</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s108"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>51 / 9</B><Font>&#10;Утверждено</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s79"/>
+    <Cell ss:Index="6" ss:StyleID="s62"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24">
+    <Cell ss:MergeAcross="3" ss:StyleID="m2332575251632"><Data ss:Type="String">Информационные технологии</Data></Cell>
+   </Row>
+   <Row ss:Height="60">
+    <Cell ss:StyleID="s105"><Data ss:Type="String">Информационные технологии</Data></Cell>
+    <Cell ss:StyleID="s106"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Давыдов Александр Вячеславович</B><Font>, сектор информационно-телекоммуникационных технологий, государственный эксперт - инженер, 8-495-620-20-00, доб. 58853, 8-499-251-69-15, 8-903-578-56-75, dawydov@yandex.ru, Davidov.AV@mge.mos.ru&#10;</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s106"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>3 / 3</B><Font>&#10;Утверждено</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">сняты замечания</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s62"/>
+   </Row>
+   <Row ss:Height="48">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Проект организации строительства, содержащий в том числе проект организации работ по сносу ОКС, их частей</Data></Cell>
+    <Cell ss:StyleID="s83"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Каробанов Владимир Владимирович</B><Font>, отдел смет и пос по объектам непроизводственного назначения, эксперт по проектной документации, +79091619106 , karobanov.mge@mail.ru&#10;</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s108"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>7 / 2</B><Font>&#10;Утверждено</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s79"/>
+    <Cell ss:Index="6" ss:StyleID="s62"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24">
+    <Cell ss:MergeAcross="3" ss:StyleID="m2332575251652"><Data ss:Type="String">Окружающая среда и территориальное планирование</Data></Cell>
+   </Row>
+   <Row ss:Height="48">
+    <Cell ss:StyleID="s105"><Data ss:Type="String">Соблюдение санитарно-эпидемиологических требований</Data></Cell>
+    <Cell ss:StyleID="s106"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Инчин Александр Владимирович</B><Font>, санитарно-эпидемиологический отдел, государственный эксперт - санитарный врач, 8 926 406-80-86, Inchin.AV@mge.mos.ru&#10;</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s106"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>1 / 1</B><Font>&#10;Утверждено</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">сняты замечания</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s62"/>
+   </Row>
+   <Row ss:Height="36">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Мероприятия по охране окружающей среды</Data></Cell>
+    <Cell ss:StyleID="s83"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Шатланова Яна Игоревна</B><Font>, отдел экологии, государственный эксперт-эколог, +79804984678, Shatlanova.YA@mge.mos.ru&#10;</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s83"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>1 / 0</B><Font>&#10;Утверждено</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s79"/>
+    <Cell ss:Index="6" ss:StyleID="s62"/>
+   </Row>
+   <Row ss:Height="48">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Мероприятия по обеспечению пожарной безопасности</Data></Cell>
+    <Cell ss:StyleID="s83"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Давыдкин Степан Анатольевич</B><Font>, отдел пожарной безопасности, государственный эксперт по пожарной безопасности, 8 (903) 213-99-55, Davydkin.SA@mge.mos.ru&#10;</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s83"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>36 / 0</B><Font>&#10;Утверждено</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s79"/>
+    <Cell ss:Index="6" ss:StyleID="s62"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24">
+    <Cell ss:MergeAcross="3" ss:StyleID="m2332575254048"><Data ss:Type="String">Теплоэнергетика</Data></Cell>
+   </Row>
+   <Row ss:Height="48">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Противодымная защита при пожаре (ПВ)</Data></Cell>
+    <Cell ss:StyleID="s83"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Филатова Ольга Викторовна</B><Font>, отдел теплоэнергетики, государственный эксперт - инженер, 8-495-620-20-00, доб. 30925, +7 915 149 91 86, Filatova.OV@mge.mos.ru&#10;</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s83"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>3 / 0</B><Font>&#10;Утверждено</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s79"/>
+    <Cell ss:Index="6" ss:StyleID="s62"/>
+   </Row>
+   <Row ss:Height="48">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Требования к обеспечению безопасной эксплуатации объектов капитального строительства</Data></Cell>
+    <Cell ss:StyleID="s83"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Валиулин Дмитрий Исраелевич</B><Font>, отдел строительных конструкций, государственный эксперт - конструктор, +7 906 707 30 68, Valiulin.DI@mge.mos.ru&#10;</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s83"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>1 / 0</B><Font>&#10;Утверждено</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s79"/>
+    <Cell ss:Index="6" ss:StyleID="s62"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24">
+    <Cell ss:MergeAcross="3" ss:StyleID="m2332575254068"><Data ss:Type="String">Информационные технологии</Data></Cell>
+   </Row>
+   <Row ss:Height="60">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Антитеррор</Data></Cell>
+    <Cell ss:StyleID="s83"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Давыдов Александр Вячеславович</B><Font>, сектор информационно-телекоммуникационных технологий, государственный эксперт - инженер, 8-495-620-20-00, доб. 58853, 8-499-251-69-15, 8-903-578-56-75, dawydov@yandex.ru, Davidov.AV@mge.mos.ru&#10;</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s83"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>4 / 0</B><Font>&#10;Утверждено</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s79"/>
+    <Cell ss:Index="6" ss:StyleID="s62"/>
+   </Row>
+   <Row ss:Height="48">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Мероприятия по обеспечению доступа инвалидов к объекту капитального строительства</Data></Cell>
+    <Cell ss:StyleID="s83"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Кручинина Елена Николаевна</B><Font>, архитектурно-планировочный отдел, государственный эксперт-архитектор, 8-495-620-20-00, доб. 56405, 8-901-187-53-87, Kruchinina.EN@mge.mos.ru&#10;</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s108"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>7 / 5</B><Font>&#10;Утверждено</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s79"/>
+    <Cell ss:Index="6" ss:StyleID="s62"/>
+   </Row>
+   <Row ss:Height="108">
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Мероприятия по обеспечению доступа инвалидов к объекту капитального строительства</Data></Cell>
+    <Cell ss:StyleID="s83"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Курильчик Лилия Павловна</B><Font> (делегирование прав от Швырева Н.А. на период с 26.10.2026 по 03.11.2026) архитектурно-планировочный отдел, эксперт по проектной документации, 8 (926) 933-32-84, Kurilchik.LP@mge.mos.ru&#10;</Font><B>Курильчик Лилия Павловна</B><Font> (делегирование прав от Швырева Н.А. на период с 26.10.2026 по 03.11.2026) архитектурно-планировочный отдел, эксперт по проектной документации, 8 (926) 933-32-84, Kurilchik.LP@mge.mos.ru&#10;</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s83"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>4 / 0</B><Font>&#10;Утверждено</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s79"/>
+    <Cell ss:Index="6" ss:StyleID="s62"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Layout x:Orientation="Landscape"/>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.25" x:Right="0.25" x:Top="0.75"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <TopRowVisible>35</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>38</ActiveRow>
+     <ActiveCol>3</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

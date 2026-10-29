@@ -1,0 +1,1145 @@
+<ExplanatoryNote xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:noNamespaceSchemaLocation="explanatorynote-01-03.xsd" SchemaVersion="01.03">
+  <ExplanatoryNoteNumber>16-25/Г-П-ПЗ</ExplanatoryNoteNumber>
+  <ExplanatoryNoteYear>2026</ExplanatoryNoteYear>
+  <IssueAuthor>
+    <Organization>
+      <OrgFullName>Общество с ограниченной ответственностью Проектно-Строительная Компания "Азурит"</OrgFullName>
+      <OrgOGRN>1117746979096</OrgOGRN>
+      <OrgINN>7722762829</OrgINN>
+      <OrgKPP>772701001</OrgKPP>
+      <Address>
+        <Region>77</Region>
+        <District>Останкинский р-н</District>
+        <City>Москва</City>
+        <Street>проезд Ольминского</Street>
+        <Building>д.5</Building>
+        <Room>1/4</Room>
+      </Address>
+      <Email>info@psk-azurit.ru</Email>
+    </Organization>
+    <SROMembership>
+      <SRO SROType="Саморегулируемая организация в области архитектурно-строительного проектирования">Саморегулируемая организация Ассоциация проектировщиков «Альянс проектировщиков профессионалов» (СРО-П-163-20122010)</SRO>
+      <SRO SROType="Саморегулируемая организация в области инженерных изысканий">Ассоциации в области инженерных изысканий «Саморегулируемая организация «ЛИГА ИЗЫСКАТЕЛЕЙ» (СРО- И-013-25122009)</SRO>
+    </SROMembership>
+  </IssueAuthor>
+  <Signers>
+    <Signer engineeringRegistry="да" constructionRegistry="нет">
+      <FamilyName>Губарев</FamilyName>
+      <FirstName>Николай</FirstName>
+      <SecondName>Александрович</SecondName>
+      <Position>Технический директор – главный инженер</Position>
+    </Signer>
+    <Signer engineeringRegistry="да" constructionRegistry="нет">
+      <FamilyName>Неменов</FamilyName>
+      <FirstName>Георгий</FirstName>
+      <SecondName>Наумович</SecondName>
+      <Position>Главный инженер проекта</Position>
+    </Signer>
+  </Signers>
+  <TechnicalCustomer>
+    <Organization>
+      <OrgFullName>Автономная некоммерческая организация «Развитие Городских Технологий»</OrgFullName>
+      <OrgOGRN>1217700058146</OrgOGRN>
+      <OrgINN>9701170871</OrgINN>
+      <OrgKPP>770101001</OrgKPP>
+      <Address>
+        <Region>77</Region>
+        <City>Москва</City>
+        <Settlement>Москва</Settlement>
+        <Street>Переведеновский пер.</Street>
+        <Building>д13, стр 16</Building>
+      </Address>
+      <Email>info@ano-rgt.ru</Email>
+    </Organization>
+  </TechnicalCustomer>
+  <UsedNorms>
+    <UsedNorm>ГОСТ 21.507-81 «Система проектной документации для строительства. Интерьеры»</UsedNorm>
+    <UsedNorm>ГОСТ 31565-2012 «Кабельные изделия. Требования пожарной безопасности»</UsedNorm>
+    <UsedNorm>ГОСТ 21.501-2018 «Система проектной документации для строительства. Правила выполнения рабочей документации архитектурных и конструктивных решений»</UsedNorm>
+    <UsedNorm>ГОСТ Р 52131-2019 «Средства отображения информации знаковые для инвалидов. Технические требования»</UsedNorm>
+    <UsedNorm>ГОСТ Р 21.101-2020 «Национальный стандарт РФ. Система проектной документации для строительства. Основные требования к проектной и рабочей документации»</UsedNorm>
+    <UsedNorm>ГОСТ Р 51671-2020 «Средства связи и информации технические общего пользования, доступные для инвалидов. Классификация. Требования доступности и безопасности»</UsedNorm>
+    <UsedNorm>ГОСТ Р 59789-2021 «Молниезащита. Защита зданий и сооружений от повреждений и защита людей и животных от электротравматизма»</UsedNorm>
+    <UsedNorm>СП 11-112-2001 «Порядок разработки и состав раздела «Инженерно-технические мероприятия гражданской обороны. Мероприятия по предупреждению чрезвычайных мероприятий» градостроительной документации для территорий»</UsedNorm>
+    <UsedNorm>СП 3.13130.2009 «Системы противопожарной защиты. Система оповещения и управления эвакуацией людей при пожаре. Требования пожарной безопасности»</UsedNorm>
+    <UsedNorm>СП 136.13330.2012 «Здания и сооружения. Общие положения проектирования с учетом доступности для маломобильных групп населения»</UsedNorm>
+    <UsedNorm>СП 138.13330.2012 «Общественные здания и сооружения, доступные маломобильным группам населения. Правила проектирования (с Изменением N 1)»</UsedNorm>
+    <UsedNorm>СП 251.1325800.2016 «Здания общеобразовательных организаций. Правила проектирования»</UsedNorm>
+    <UsedNorm>СП 256.1325800.2016 «Электроустановки жилых и общественных зданий. Правила проектирования и монтажа»</UsedNorm>
+    <UsedNorm>СП 439.1325800.2018 «Здания и сооружения. Правила проектирования аварийного освещения»</UsedNorm>
+    <UsedNorm>СП 1.13330.2020 «Системы противопожарной защиты. Эвакуационные пути и выходы»</UsedNorm>
+    <UsedNorm>СП 59.13330.2020 «Доступность зданий и сооружений для маломобильных групп населения. Актуализированная редакция СНиП 35-01-2001»</UsedNorm>
+    <UsedNorm>СП 251.1325800.2016 «Здания общеобразовательных организаций. Правила проектирования»</UsedNorm>
+    <UsedNorm>СП 484.1311500.2020 «Системы противопожарной защиты. Системы пожарной сигнализации и автоматизация систем противопожарной защиты. Нормы и правила проектирования»</UsedNorm>
+    <UsedNorm>СП 485.1311500.2020 «Системы противопожарной защиты. Установки пожаротушения автоматические. Нормы и правила проектирования»</UsedNorm>
+    <UsedNorm>СП 118.13330.2022 «Общественные здания и сооружения»</UsedNorm>
+    <UsedNorm>СанПиН 1.2.3685-21 «Гигиенические нормативы и требования к обеспечению безопасности и (или) безвредности для человека факторов среды обитания»</UsedNorm>
+    <UsedNorm>ТСН 31-306-2004 г. Москвы «Общеобразовательные учреждения»</UsedNorm>
+    <UsedNorm>СО 153-34.21.122-2003 «Инструкция по устройству молниезащиты зданий, сооружений и промышленных коммуникаций»</UsedNorm>
+  </UsedNorms>
+  <ProjectDecisionDocuments>
+    <Document>
+      <DocType>15.05</DocType>
+      <DocName>Постановление «Об утверждении Государственной программы города Москвы «Развитие образования города Москвы («Столичное образование»)</DocName>
+      <DocNumber>450-ПП</DocNumber>
+      <DocDate>2011-09-20</DocDate>
+      <DocIssueAuthor>Правительство Москвы</DocIssueAuthor>
+      <Link>https://docs.cntd.ru/document/537907408</Link>
+    </Document>
+    <Document>
+      <DocType>15.05</DocType>
+      <DocName>Приказ ««Об утверждении адресного перечня объектов, на которых запланирована разработка проектно-сметной документации в 2025-2027 годах и строительно-монтажные работы в 2026-2027 годах»</DocName>
+      <DocNumber>Пр -800</DocNumber>
+      <DocDate>2025-08-22</DocDate>
+      <DocIssueAuthor>Департамент образования и науки города Москвы</DocIssueAuthor>
+      <File>
+        <FileName>Приказ об утверждении адресного перечня ПР-800.pdf</FileName>
+        <FileFormat>pdf</FileFormat>
+        <FileChecksum>583378F3</FileChecksum>
+      </File>
+    </Document>
+    <Document>
+      <DocType>15.05</DocType>
+      <DocName>Договор о предоставлении супсидии из бюджета города Москвы</DocName>
+      <DocNumber>2/ОЭКСТ/25</DocNumber>
+      <DocDate>2025-08-14</DocDate>
+      <DocIssueAuthor>ГКУ г.Москвы УКРиС</DocIssueAuthor>
+      <File>
+        <FileName>Субсидия УКРиС 367_7 м.р. р_с 9 школ ПИР.pdf.sig</FileName>
+        <FileFormat>sig</FileFormat>
+        <FileChecksum>F484D80B</FileChecksum>
+      </File>
+    </Document>
+    <Document>
+      <DocType>99.01</DocType>
+      <DocName>Письмо исходящее о передаче ТЗК</DocName>
+      <DocNumber>б/н</DocNumber>
+      <DocDate>2026-06-10</DocDate>
+      <DocIssueAuthor>ООО "ПСК Азурит"</DocIssueAuthor>
+      <File>
+        <FileName>Письмо сопроводительное о передаче ТЗК.pdf.sig</FileName>
+        <FileFormat>sig</FileFormat>
+        <FileChecksum>1004760C</FileChecksum>
+      </File>
+    </Document>
+    <Document>
+      <DocType>99.01</DocType>
+      <DocName>Письмо о передаче ПД</DocName>
+      <DocNumber>Исх №26-08/Исх-778</DocNumber>
+      <DocDate>2026-08-17</DocDate>
+      <DocIssueAuthor>ООО "ПСК Азурит"</DocIssueAuthor>
+      <File>
+        <FileName>Письмо+накладная с отметкой о получении.pdf.sig</FileName>
+        <FileFormat>sig</FileFormat>
+        <FileChecksum>D8FD2B8F</FileChecksum>
+      </File>
+    </Document>
+    <Document>
+      <DocType>99.99</DocType>
+      <DocName>УВЕДОМЛЕНИЕ о включении сведений в Национальный реестр специалистов в области инженерных изысканий и архитектурно-строительного проектирования</DocName>
+      <DocNumber>П-175705</DocNumber>
+      <DocDate>2026-08-24</DocDate>
+      <DocIssueAuthor> НОПРИЗ</DocIssueAuthor>
+      <File>
+        <FileName>notification(1).pdf.sig</FileName>
+        <FileFormat>sig</FileFormat>
+        <FileChecksum>9739CE41</FileChecksum>
+      </File>
+    </Document>
+    <Document>
+      <DocType>15.05</DocType>
+      <DocName>Письмо о финансировании</DocName>
+      <DocNumber>07-10-2687/26</DocNumber>
+      <DocDate>2026-06-09</DocDate>
+      <DocIssueAuthor>ДЕПАРТАМЕНТ КАПИТАЛЬНОГО РЕМОНТА ГОРОДА МОСКВЫ</DocIssueAuthor>
+      <File>
+        <FileName>ГРБС 5 Соколиная горы 09.06.2026_07-10-2687_26_Беляев_А.А._Петелько_Д.А.pdf.sig</FileName>
+        <FileFormat>sig</FileFormat>
+        <FileChecksum>83A2999C</FileChecksum>
+      </File>
+    </Document>
+    <Document>
+      <DocType>15.05</DocType>
+      <DocName>Договор о предоставлении супсидии из бюджета города Москвы</DocName>
+      <DocNumber>2/ОЭКСТ/25</DocNumber>
+      <DocDate>2025-08-14</DocDate>
+      <DocIssueAuthor>ГКУ "Укрис"</DocIssueAuthor>
+      <File>
+        <FileName>Субсидия УКРиС 367_7 м.р. р_с 9 школ ПИР.pdf.sig</FileName>
+        <FileFormat>sig</FileFormat>
+        <FileChecksum>F484D80B</FileChecksum>
+      </File>
+    </Document>
+    <Document>
+      <DocType>15.05</DocType>
+      <DocName>Письмо к соглашению о предоставлении супсидии</DocName>
+      <DocNumber>07-10-11983/26</DocNumber>
+      <DocDate>2026-08-27</DocDate>
+      <DocIssueAuthor>ДЕПАРТАМЕНТ КАПИТАЛЬНОГО РЕМОНТА ГОРОДА МОСКВЫ</DocIssueAuthor>
+      <File>
+        <FileName>27_08_2026_07_10_11983_26_Беляев_А_А_Родина_Е_А_ [4oOsj1].pdf.sig</FileName>
+        <FileFormat>sig</FileFormat>
+        <FileChecksum>900BDAE3</FileChecksum>
+      </File>
+    </Document>
+  </ProjectDecisionDocuments>
+  <ProjectInitialDocuments>
+    <Document>
+      <DocType>05.03</DocType>
+      <DocName>Задание на разработку проектной документации</DocName>
+      <DocNumber>ЗнП-16-25Г</DocNumber>
+      <DocDate>2025-11-01</DocDate>
+      <DocIssueAuthor>Утверждено Заместителем руководителя Департамента капитального ремонта города Москвы</DocIssueAuthor>
+      <File>
+        <FileName>ЗнП 2026.10.23.xml</FileName>
+        <FileFormat>xml</FileFormat>
+        <FileChecksum>6A540CAA</FileChecksum>
+      </File>
+    </Document>
+    <Document>
+      <DocType>99.99</DocType>
+      <DocName>Выписка из Единого государственного реестра недвижимости об объекте недвижимости на земельный участок</DocName>
+      <DocNumber>КУВИ-001/2026-1220714</DocNumber>
+      <DocDate>2026-01-13</DocDate>
+      <DocIssueAuthor>Федеральная служба государственной регистрации, кадастра и картографии</DocIssueAuthor>
+      <Included>Учтено в 16-Г25-П-ПЗ_МГЭ_2026.10.23</Included>
+    </Document>
+    <Document>
+      <DocType>99.99</DocType>
+      <DocName>Выписка из Единого государственного реестра недвижимости об объекте недвижимости на здание </DocName>
+      <DocNumber>КУВИ-001/2026-1217861</DocNumber>
+      <DocDate>2026-01-13</DocDate>
+      <DocIssueAuthor>Федеральная служба государственной регистрации, кадастра и картографии</DocIssueAuthor>
+      <Included>Учтено в 16-Г25-П-ПЗ_МГЭ_2026.10.23</Included>
+    </Document>
+    <Document>
+      <DocType>04.01</DocType>
+      <DocName>Контракт холодного водоснабжения и водоотведения</DocName>
+      <DocNumber>3074217</DocNumber>
+      <DocDate>2023-12-27</DocDate>
+      <DocIssueAuthor>Акционерное общество "Мосводоканал"</DocIssueAuthor>
+      <Included>Учтено в 16-Г25-П-ПЗ_МГЭ_2026.10.23</Included>
+    </Document>
+    <Document>
+      <DocType>04.01</DocType>
+      <DocName>Технические условия (задание) на выполнение работ по обеспечению сохранности кабельных и канализационных сооружений связи</DocName>
+      <DocNumber>1280-Ю-2024</DocNumber>
+      <DocDate>0224-11-26</DocDate>
+      <DocIssueAuthor>ПАО "МГТС"</DocIssueAuthor>
+      <Included>Учтено в 16-Г25-П-ПЗ_МГЭ_2026.10.23</Included>
+    </Document>
+    <Document>
+      <DocType>04.01</DocType>
+      <DocName>ТЕХНИЧЕСКИЕ ТРЕБОВАНИЯ к оборудованию, устанавливаемому на объекте защиты, для обеспечения передачи дублирующих сигналов о возникновении пожара</DocName>
+      <DocNumber>80056</DocNumber>
+      <DocDate>2026-03-02</DocDate>
+      <DocIssueAuthor>ГБУ «Система 112»</DocIssueAuthor>
+      <Included>Учтено в 16-Г25-П-ПЗ_МГЭ_2026.10.23</Included>
+    </Document>
+    <Document>
+      <DocType>04.01</DocType>
+      <DocName>ДОГОВОР о подключении к системе теплоснабжения</DocName>
+      <DocNumber>10-11/26-662 </DocNumber>
+      <DocDate>2026-06-23</DocDate>
+      <DocIssueAuthor>ПАО «МОЭК»</DocIssueAuthor>
+      <Included>Учтено в 16-Г25-П-ПЗ_МГЭ_2026.10.23</Included>
+    </Document>
+    <Document>
+      <DocType>04.01</DocType>
+      <DocName>ТЕХНИЧЕСКИЕ УСЛОВИЯ на организацию автоматизированной системы учета потребления ресурсов  (АСУПР) для сбора и передачи показаний с приборов учета тепловой энергии  и приборов учета холодной воды, устанавливаемых на вводах объекта -ГБОУ «СОШ № 433» </DocName>
+      <DocNumber>0385А</DocNumber>
+      <DocDate>2026-06-01</DocDate>
+      <DocIssueAuthor>ГБУ «ИМЦ»</DocIssueAuthor>
+      <Included>Учтено в 16-Г25-П-ПЗ_МГЭ_2026.10.23</Included>
+    </Document>
+    <Document>
+      <DocType>04.01</DocType>
+      <DocName>ТЕХНИЧЕСКИЕ УСЛОВИЯ  на организацию системы видеонаблюдения объекта застройки - ГБОУ «СОШ № 433»</DocName>
+      <DocNumber>0385ВН</DocNumber>
+      <DocDate>2026-06-01</DocDate>
+      <DocIssueAuthor>ГБУ «ИМЦ»</DocIssueAuthor>
+      <Included>Учтено в 16-Г25-П-ПЗ_МГЭ_2026.10.23</Included>
+    </Document>
+    <Document>
+      <DocType>04.01</DocType>
+      <DocName>ТЕХНИЧЕСКИЕ УСЛОВИЯ  на подключение внутридомовых технических средств объекта к посту диспетчера ГБОУ «СОШ № 433»</DocName>
+      <DocNumber>0385Д</DocNumber>
+      <DocDate>2026-06-01</DocDate>
+      <DocIssueAuthor>ГБУ «ИМЦ»</DocIssueAuthor>
+      <Included>Учтено в 16-Г25-П-ПЗ_МГЭ_2026.10.23</Included>
+    </Document>
+    <Document>
+      <DocType>04.01</DocType>
+      <DocName>Технические условия  на технологическое присоединение к электрическим сетям  ПАО «Россети Московский регион»  энергопринимающих устройств</DocName>
+      <DocNumber>И-26-00-467228/125</DocNumber>
+      <DocDate>2026-10-06</DocDate>
+      <DocIssueAuthor>ТП ПАО «Россети Московский регион»</DocIssueAuthor>
+      <Included>Учтено в 16-Г25-П-ПЗ_МГЭ_2026.10.23</Included>
+    </Document>
+    <Document>
+      <DocType>04.99</DocType>
+      <DocName>ДОГОВОР об осуществлении технологического присоединения к электрическим сетям</DocName>
+      <DocNumber>ИА-26-302-30286(131833) </DocNumber>
+      <DocDate>2026-05-22</DocDate>
+      <DocIssueAuthor>ПАО «Россети Московский регион</DocIssueAuthor>
+      <Included>Учтено в 16-Г25-П-ПЗ_МГЭ_2026.10.23</Included>
+    </Document>
+    <Document>
+      <DocType>04.01</DocType>
+      <DocName>Технические условия радиофикацию, систем кабельного телевидения объекта: «Капитальный  ремонт  ГБОУ  «Школа №429»» по  адресу: г. Москва, 5-я ул. Соколиной  горы, д. 14</DocName>
+      <DocNumber>2055РФ/ТВ-ЕТЦ/2026</DocNumber>
+      <DocDate>2026-01-29</DocDate>
+      <DocIssueAuthor>Единый  Технический Центр ООО  "Корпорация ИнформТелеСеть"</DocIssueAuthor>
+      <Included>Учтено в 16-Г25-П-ПЗ_МГЭ_2026.10.23</Included>
+    </Document>
+    <Document>
+      <DocType>04.01</DocType>
+      <DocName>ТЕХНИЧЕСКИЕ УСЛОВИЯ на сопряжение объектовой системы оповещения с региональной автоматизированной системой централизованного оповещения населения города Москвы о чрезвычайных ситуациях</DocName>
+      <DocNumber>80054</DocNumber>
+      <DocDate>2026-03-02</DocDate>
+      <DocIssueAuthor>ГБУ «Система 112»</DocIssueAuthor>
+      <Included>Учтено в 16-Г25-П-ПЗ_МГЭ_19.10.2026</Included>
+    </Document>
+    <Document>
+      <DocType>04.99</DocType>
+      <DocName>Письмо </DocName>
+      <DocNumber>20105/8-329</DocNumber>
+      <DocDate>2026-01-23</DocDate>
+      <DocIssueAuthor>ФГКУ «УВО ВНГ России по городу Москве»</DocIssueAuthor>
+      <Included>Учтено в 16-Г25-П-ПЗ_МГЭ_19.10.2026</Included>
+    </Document>
+    <Document>
+      <DocType>10.01</DocType>
+      <DocName>ВЫПИСКА из единого реестра сведений о членах саморегулируемых организаций в области инженерных изысканий и в области архитектурно-строительного проектирования и их обязательствах</DocName>
+      <DocNumber>П-163-007722762829-0240</DocNumber>
+      <DocDate>2026-07-01</DocDate>
+      <DocIssueAuthor>НОПРИЗ</DocIssueAuthor>
+      <Included>Учтено в 16-Г25-П-ПЗ_МГЭ_19.10.2026</Included>
+    </Document>
+    <Document>
+      <DocType>10.01</DocType>
+      <DocName>ВЫПИСКА из единого реестра сведений о членах саморегулируемых организаций в области инженерных изысканий и в области архитектурно-строительного проектирования и их обязательствах</DocName>
+      <DocNumber>И-013-007722762829-0649 </DocNumber>
+      <DocDate>2026-07-01</DocDate>
+      <DocIssueAuthor>НОПРИЗ</DocIssueAuthor>
+      <Included>Учтено в 16-Г25-П-ПЗ_МГЭ_19.10.2026</Included>
+    </Document>
+    <Document>
+      <DocType>99.99</DocType>
+      <DocName>Сертификат соответствия системы фасадные теплоизоляционные </DocName>
+      <DocNumber>RU.MCC.379.38156</DocNumber>
+      <DocDate>2024-04-17</DocDate>
+      <DocIssueAuthor>Московская система добровольной сертификации в строительстве Система "МОССТРОЙСЕРТИФИКАЦИЯ"</DocIssueAuthor>
+      <Included>Учтено в 16-Г25-П-ПЗ_МГЭ_19.10.2026</Included>
+    </Document>
+    <Document>
+      <DocType>99.99</DocType>
+      <DocName>Сертификат соответствия Витраж противопожарный светопрозрачный (типа ВПС-ЕIW30), изготовленный из алюминиевых профилей системы ТАТПРОФ</DocName>
+      <DocNumber>НСОПБ.RU.ЭО.ПР.150.Н.02335</DocNumber>
+      <DocDate>2023-08-10</DocDate>
+      <DocIssueAuthor>ОС ООО "Альфа "Пожарная Безопасность"</DocIssueAuthor>
+      <Included>Учтено в 16-Г25-П-ПЗ_МГЭ_19.10.2026</Included>
+    </Document>
+    <Document>
+      <DocType>99.99</DocType>
+      <DocName>Сертификат соответствия средств огнезащиты стальных конструкций «Термобарьер»</DocName>
+      <DocNumber>ЕАЭС RU C-RU.ПБ09.В.00605/26</DocNumber>
+      <DocDate>2026-07-15</DocDate>
+      <DocIssueAuthor>Евразийский экономический союз</DocIssueAuthor>
+      <Included>Учтено в 16-Г25-П-ПЗ_МГЭ_19.10.2026</Included>
+    </Document>
+    <Document>
+      <DocType>99.99</DocType>
+      <DocName>Сертификат соответствия на двухслойную конструктивную огнезащиту «Термобарьер К»</DocName>
+      <DocNumber>СЭБ.RU.ПР001.В.00134</DocNumber>
+      <DocDate>2026-05-23</DocDate>
+      <DocIssueAuthor> Система добровольной сертификации СЭБ</DocIssueAuthor>
+      <Included>Учтено в 16-Г25-П-ПЗ_МГЭ_19.10.2026</Included>
+    </Document>
+    <Document>
+      <DocType>99.99</DocType>
+      <DocName>Сертификат соответствия на двухслойную конструктивную огнезащиту «Термобарьер К»</DocName>
+      <DocNumber>СЭБ.RU.ПР001.В.00161</DocNumber>
+      <DocDate>2023-09-23</DocDate>
+      <DocIssueAuthor>Система добровольной сертификации СЭБ</DocIssueAuthor>
+      <Included> Учтено в 16-Г25-П-ПЗ_МГЭ_19.10.2026</Included>
+    </Document>
+    <Document>
+      <DocType>99.99</DocType>
+      <DocName>Сертификат соответствия на двухслойную конструктивную огнезащиту «Термобарьер К»</DocName>
+      <DocNumber>СЭБ.RU.ПР001.В.00168</DocNumber>
+      <DocDate>2023-10-12</DocDate>
+      <DocIssueAuthor>Система добровольной сертификации СЭБ</DocIssueAuthor>
+      <Included>Учтено в 16-Г25-П-ПЗ_МГЭ_19.10.2026</Included>
+    </Document>
+    <Document>
+      <DocType>99.99</DocType>
+      <DocName>Свидетельство о государственной регистрации на двухкомпонентный теплоизоляционный материал «Термобарьер» Т</DocName>
+      <DocNumber>RU.77.01.34.015.E.001942.07.17</DocNumber>
+      <DocDate>2017-07-11</DocDate>
+      <DocIssueAuthor>Управление федеральной службы по надзору в сфере защиты прав потребителей и благополучия человека по городу Москве</DocIssueAuthor>
+      <Included>Учтено в 16-Г25-П-ПЗ_МГЭ_19.10.2026</Included>
+    </Document>
+    <Document>
+      <DocType>99.99</DocType>
+      <DocName>Сертификат соответствия на двухкомпонентный теплоизоляционный материал «Термобарьер» Т</DocName>
+      <DocNumber>РОСС.RU.НЕ06.Н11987</DocNumber>
+      <DocDate>2023-09-01</DocDate>
+      <DocIssueAuthor>Система добровольной сертификации "Прибор-Эксперт"</DocIssueAuthor>
+      <Included>Учтено в 16-Г25-П-ПЗ_МГЭ_19.10.2026</Included>
+    </Document>
+    <Document>
+      <DocType>99.99</DocType>
+      <DocName>Свидетельство о государственной регистрации на огнезащитную вспучивающуюся краску «Термобарьер»</DocName>
+      <DocNumber>RU.77.01.34.015.E.011365.12.12</DocNumber>
+      <DocDate>2012-12-24</DocDate>
+      <DocIssueAuthor>Управление федеральной службы по надзору в сфере защиты прав потребителей и благополучия человека по городу Москве</DocIssueAuthor>
+      <Included>Учтено в 16-Г25-П-ПЗ_МГЭ_19.10.2026</Included>
+    </Document>
+    <Document>
+      <DocType>99.99</DocType>
+      <DocName>Сертификат соответствия на огнезащитную вспучивающуюся краску «Термобарьер»</DocName>
+      <DocNumber>РОСС.RU.МЛ10.Н13742</DocNumber>
+      <DocDate>2026-02-04</DocDate>
+      <DocIssueAuthor>Система добровольной сертификации "Прибор-Эксперт"</DocIssueAuthor>
+      <Included>Учтено в 16-Г25-П-ПЗ_МГЭ_19.10.2026</Included>
+    </Document>
+    <Document>
+      <DocType>99.99</DocType>
+      <DocName>Сертификат соответствия устройств пожаротушения автономных</DocName>
+      <DocNumber>ЕАЭС RU C-RU.НЕ.55.В.00028/23</DocNumber>
+      <DocDate>2023-10-02</DocDate>
+      <DocIssueAuthor>Евразийский Экономический Союз</DocIssueAuthor>
+      <Included>Учтено в 16-Г25-П-ПЗ_МГЭ_19.10.2026</Included>
+    </Document>
+    <Document>
+      <DocType>99.99</DocType>
+      <DocName>Сертификат соответствия на фанеру трудносгораемую для строительства марки ФСФ-ТС</DocName>
+      <DocNumber>RU C-RU.ПБ09.В.00385/23</DocNumber>
+      <DocDate>2023-02-10</DocDate>
+      <DocIssueAuthor>АНО "Сертификационный центр "Пожарные Подмосковья"</DocIssueAuthor>
+      <Included>Учтено в 16-Г25-П-ПЗ_МГЭ_19.10.2026</Included>
+    </Document>
+    <Document>
+      <DocType>99.99</DocType>
+      <DocName>Сертификат соответствия на плиты фанерные трудносгорающие атмосферостойкие марок ПФА-Т и ПФА-Т (комби)</DocName>
+      <DocNumber>RU C-RU.АЮ 64.В.00501/24</DocNumber>
+      <DocDate>2024-01-17</DocDate>
+      <DocIssueAuthor>"ПОЛИСЕРТ"</DocIssueAuthor>
+      <Included>Учтено в 16-Г25-П-ПЗ_МГЭ_19.10.2026</Included>
+    </Document>
+    <Document>
+      <DocType>99.99</DocType>
+      <DocName>Сертификат соответствия на плиты фанерные трудносгорающие атмосферостойкие маркировки ПФА-Т для покрытия полов</DocName>
+      <DocNumber>RU C-RU.ПБ68.В.00866/22</DocNumber>
+      <DocDate>2022-03-24</DocDate>
+      <DocIssueAuthor>ООО "Пожарная Сертификационная Компания"</DocIssueAuthor>
+      <Included>Учтено в 16-Г25-П-ПЗ_МГЭ_19.10.2026</Included>
+    </Document>
+    <Document>
+      <DocType>99.99</DocType>
+      <DocName>Сертификат соответствия на плиты фанерные трудносгорающие атмосферостойкие маркировки ПФА-Т для отделки стен и потолков</DocName>
+      <DocNumber>RU C-RU.ПБ68.В.00868/22</DocNumber>
+      <DocDate>2022-03-25</DocDate>
+      <DocIssueAuthor>ООО "Пожарная Сертификационная Компания"</DocIssueAuthor>
+      <Included>Учтено в 16-Г25-П-ПЗ_МГЭ_2026.10.23</Included>
+    </Document>
+    <Document>
+      <DocType>99.99</DocType>
+      <DocName>Выписка из технического паспорта БТИ на здание (строение)</DocName>
+      <DocNumber>1644/4 </DocNumber>
+      <DocDate>2021-09-06</DocDate>
+      <DocIssueAuthor>ГБУ Московское городское бюро технической инвентаризации</DocIssueAuthor>
+      <Included>Учтено в 16-Г25-П-ПЗ_МГЭ_19.10.2026</Included>
+    </Document>
+    <Document>
+      <DocType>99.99</DocType>
+      <DocName>Сертификат соответствия кровельная система</DocName>
+      <DocNumber>НСОПБ.RU.ЭО.ПР.099.Н.00733</DocNumber>
+      <DocDate>2029-10-30</DocDate>
+      <DocIssueAuthor>СИСТЕМА ДОБРОВОЛЬНОЙ СЕРТИФИКАЦИИ НСОПБ</DocIssueAuthor>
+      <Included>Учтено в 16-Г25-П-ПЗ_МГЭ_2026.10.23</Included>
+    </Document>
+    <Document>
+      <DocType>99.99</DocType>
+      <DocName>Сертификат соответствия на Двухслойную конструктивную огнезащиту «Термобарьер К»</DocName>
+      <DocNumber>СЭБ.RU.ПР001.В.00134</DocNumber>
+      <DocDate>2027-05-22</DocDate>
+      <DocIssueAuthor>СИСТЕМА ДОБРОВОЛЬНОЙ СЕРТИФИКАЦИИ СЭБ</DocIssueAuthor>
+      <Included>Учтено в 16-Г25-П-ПЗ_МГЭ_19.10.2026</Included>
+    </Document>
+    <Document>
+      <DocType>99.99</DocType>
+      <DocName>Сертификат соответствия на Двухслойную конструктивную огнезащиту «Термобарьер К»</DocName>
+      <DocNumber>СЭБ.RU.ПР001.В.00161</DocNumber>
+      <DocDate>2028-09-22</DocDate>
+      <DocIssueAuthor>СИСТЕМА ДОБРОВОЛЬНОЙ СЕРТИФИКАЦИИ СЭБ</DocIssueAuthor>
+      <Included>Учтено в 16-Г25-П-ПЗ_МГЭ_19.10.2026</Included>
+    </Document>
+    <Document>
+      <DocType>99.99</DocType>
+      <DocName>Сертификат соответствия на Двухслойную конструктивную огнезащиту «Термобарьер К»</DocName>
+      <DocNumber>СЭБ.RU.ПР001.В.00168</DocNumber>
+      <DocDate>2028-10-11</DocDate>
+      <DocIssueAuthor>СИСТЕМА ДОБРОВОЛЬНОЙ СЕРТИФИКАЦИИ СЭБ</DocIssueAuthor>
+      <Included>Учтено в 16-Г25-П-ПЗ_МГЭ_2026.10.23</Included>
+    </Document>
+    <Document>
+      <DocType>99.99</DocType>
+      <DocName>Сертификат соответствия на Плиты фанерные трудногорючие атмосферостойкие марок ПФА-Т и ПФА-Т (комби)</DocName>
+      <DocNumber>RU C-RU.АЮ 64.В.00501/24</DocNumber>
+      <DocDate>2029-01-16</DocDate>
+      <DocIssueAuthor>АНО по сертификации "ЭЛЕКТРОСЕРТ"</DocIssueAuthor>
+      <Included>Учтено в 16-Г25-П-ПЗ_МГЭ_2026.10.23</Included>
+    </Document>
+    <Document>
+      <DocType>99.99</DocType>
+      <DocName>ОТЧЕТ ПО РЕЗУЛЬТАТАМ РАСЧЕТА ПО ОЦЕНКЕ ПОЖАРНОГО РИСКА</DocName>
+      <DocNumber>б/н</DocNumber>
+      <DocDate>2026-10-23</DocDate>
+      <DocIssueAuthor>ООО "01 Групп"</DocIssueAuthor>
+      <Included>Учтено в 16-Г25-П-ПЗ_МГЭ_2026.10.23</Included>
+    </Document>
+    <Document>
+      <DocType>99.99</DocType>
+      <DocName>Письмо (устройство фрамуги в верхней части оконного блока с установкой ручки на высоте 1600-1700 мм от уровня чистого пола.)</DocName>
+      <DocNumber>Исх-23173/26</DocNumber>
+      <DocDate>2026-09-29</DocDate>
+      <DocIssueAuthor>ДЕПАРТАМЕНТ ОБРАЗОВАНИЯ И НАУКИ ГОРОДА МОСКВЫ</DocIssueAuthor>
+      <Included>Учтено в 16-Г25-П-ПЗ_МГЭ_2026.10.23</Included>
+    </Document>
+  </ProjectInitialDocuments>
+  <EngineeringSurveyDocuments>
+    <Document>
+      <DocType>06.07</DocType>
+      <DocName>Заключение по результатам обследования технического состояния строительных конструкций и инженерных систем здания</DocName>
+      <DocNumber>489-24-П-ТЗК</DocNumber>
+      <DocDate>2024-09-09</DocDate>
+      <FullDocIssueAuthor>
+        <Organization>
+          <OrgFullName>Общество с ограниченной ответственностью Проектно-Строительная Компания «Азурит»</OrgFullName>
+          <OrgOGRN>1117746979096</OrgOGRN>
+          <OrgINN>7722762829</OrgINN>
+          <OrgKPP>772701001</OrgKPP>
+          <Address>
+            <Region>77</Region>
+            <Street>Новочеремушкинская </Street>
+            <Building>39 к2</Building>
+            <Room>89П</Room>
+          </Address>
+        </Organization>
+      </FullDocIssueAuthor>
+      <File>
+        <FileName>ТЗК Соколиной горы 5я 14_17.08.2026.pdf</FileName>
+        <FileFormat>pdf</FileFormat>
+        <FileChecksum>DB5FFEC2</FileChecksum>
+      </File>
+    </Document>
+  </EngineeringSurveyDocuments>
+  <FinanceSources>
+    <BudgetSource>
+      <BudgetLevel>Бюджет субъекта Российской Федерации</BudgetLevel>
+      <SourceRatio>100</SourceRatio>
+    </BudgetSource>
+    <FinanceComment>Бюджет города Москвы.</FinanceComment>
+  </FinanceSources>
+  <NonIndustrialObject ObjectID="N_LlcL1r" Placement="1">
+    <Name>Капитальный ремонт общеобразовательного учреждения (ГБОУ «Школа № 429»), расположенного по адресу: г. Москва, 5-ая ул. Соколиной Горы д.14 1 этап</Name>
+    <ConstructionType>3</ConstructionType>
+    <ConstructionDuration>12</ConstructionDuration>
+    <ConstructionDates />
+    <Address>
+      <Country>Российская Федерация</Country>
+      <Region>77</Region>
+      <Street> 5-я Соколиной Горы</Street>
+      <Building>д.14</Building>
+    </Address>
+    <Functions>
+      <FunctionsNote>Здание средней школы</FunctionsNote>
+      <FunctionsClass>02.03.002.003</FunctionsClass>
+      <ProductsNote Title="Краткое описание объекта капитального ремонта">
+        <Text>Здание, подлежащее капитальному ремонту, является структурным подразделением Государственного бюджетного общеобразовательного учреждения  (Школа № 429), расположенного по адресу:  г. Москва,  5 ул. Соколиной горы д.14. 
+Участок школы располагается в сложившейся жилой застройке и удален от крупных магистралей округа. С севера участок ограничен 5-й улицей Соколиной горы, с востока 7-ми и 5-ти этажными домами, с запада 7-ми этажный жилой дом и 2-х этажный детский сад, с юга примыкает территория 5-ти этажной больницы.  
+Здание школы  основного здания в осях «1-23/А/1-А1» построено в 1938 году по индивидуальному проекту.
+В ходе проведения реконструкции в 2006 г. надземные конструкции основного здания подлежали полной замене, а также были возведены надземные и подземные конструкции пристройки в осях «Н-П1/11-171» . В объеме основного здания также был расширен подвал.  
+Теперь здание школы  состоит из двух сложных в плане объемов:  1)- в осях «1-23/А/1-А1» – четырехэтажное с техническим этажем, габаритными размерами 68,415*31,145 м., высотой 19,9 м. (выходы на кровлю- 22.500м);   2)- в осях «Н-П1/11-171» – трехэтажное, габаритными размерами 47,915*63,510 м., высотой – 13,840 м. (выходы на кровлю- 16.700м). Под всем зданием находится подвал. 
+ Высота подвала в чистоте от 1,950 до 2,135 м.  Высоты:  четырехэтажного здания в чистоте: 3,620-3,700 м., тех. этажа-2,450.  Трехэтажного здания - 3,940- 4000 м. 
+Функциональное назначение здания:  Согласно ОК 013-2014  Общероссийский классификатор ОКОФ, 210.00.12.10.470 - здание школы.
+
+В рамках капитального ремонта функциональное назначение здания не изменяется - Согласно ОК 013-2014 Общероссийский классификатор ОКОФ, 210.00.12.10.470 здания школ.
+Вместимость рассматриваемого здания составляет 620 учащихся. Обучение осуществляется в одну смену.
+Организационно-педагогическая структура школы: начальная школа (1- 4 классы) -240 чел., основная школа (5-9 классы) - 300 чел., старшая школа (10-11 классы) - 80 чел. 
+Уровень начального образования размещается на 1 этаже.
+Уровень основного общего образования и уровень среднего общего – размещаются на 1-4 этажах.
+Уровень начального образования (1- 4 классы) предполагает 12 классов.  Уровень основного общего образования (5-9 классы) предполагает наличие 15 классов.  Уровень старшего общего образования (10-11 классы) предполагает наличие 4 классов. Предполагаемое количество учащихся в классах до 20 учеников.  Количество классов -31.
+</Text>
+      </ProductsNote>
+    </Functions>
+    <FunctionsFeatures>
+      <Text>Не принадлежит</Text>
+    </FunctionsFeatures>
+    <PowerIndicator>
+      <Name>Количество учащихся</Name>
+      <Measure>545</Measure>
+      <Value>620</Value>
+    </PowerIndicator>
+    <TEI>
+      <Name> Общая площадь (Земельный участок)</Name>
+      <Measure>055</Measure>
+      <Value>8979 +/- 11</Value>
+    </TEI>
+    <TEI>
+      <Name>Строительный объем</Name>
+      <Measure>055</Measure>
+      <Value>56683,2</Value>
+    </TEI>
+    <TEI>
+      <Name>Количество этажей</Name>
+      <Measure>796</Measure>
+      <Value>4+подвал+ тех этаж над частью здания</Value>
+    </TEI>
+    <TEI>
+      <Name>Площадь застройки</Name>
+      <Measure>055</Measure>
+      <Value>3097</Value>
+    </TEI>
+    <EnergyEfficiency>
+      <EnergyEfficiencyClass>A</EnergyEfficiencyClass>
+      <EnergyEfficiencyImproving>
+        <Text>В проекте предусмотрены следующие энергосберегающие мероприятия:
+- устройство входных дверей с доводчиками и с тамбуром;
+- утепление наружных ограждений материалами с низким коэффициентом теплопроводности;
+- автоматическое поддержание постоянной температуры воздуха с использованием средств автоматического регулирования в ИТП;
+- местное регулирование тепловой отдачи отопительных приборов,
+- применение электродвигателей насосов и вентагрегатов с высоким кпд.
+- автоматизация работы тепловых завес по датчику температуры воздуха;
+- установка приборов учета расхода электроэнергии;
+- применение эффективных светильников с высокой степенью светоотдачи ( светодиодные светильники и указатели);
+-применение медных проводов и кабелей;
+-учет расхода холодной и горячей воды;
+- применение современной запорной арматуры, исключающей потери воды;
+- изоляция магистральных трубопроводов, в т.ч циркуляции гвс.
+Проект разработан в соответствии с государственными, территориальными, ведомственными нормами правилами и стандартами, исходными данными, техническими условиями и
+требованиями.</Text>
+      </EnergyEfficiencyImproving>
+    </EnergyEfficiency>
+    <FireDangerCategory>Категория не устанавливается</FireDangerCategory>
+    <PeoplePermanentStay>
+      <Text>Постоянное пребывание людей предусмотрено во всех помещениях, кроме технических</Text>
+    </PeoplePermanentStay>
+    <ResponsibilityLevel>нормальный</ResponsibilityLevel>
+    <ClimateConditions>
+      <ClimateNote>
+        <Text>Климат – умеренно-континентальный, сезонность чётко выражена; лето тёплое, зима умеренно холодная.
+Период со среднесуточной температурой ниже 0 °C длится 120–135 дней, начинаясь в середине ноября и заканчиваясь в середине-конце марта.
+Рельеф участка слабопересеченный, спокойный с общим незначительным уклоном.</Text>
+      </ClimateNote>
+      <DangerousNatureProcesses>
+        <Text>Опасные природные процессы и явления и техногенные воздействия на территории, на которой осуществляется капитальный ремонт здания поликлиники, отсутствуют</Text>
+      </DangerousNatureProcesses>
+      <ClimateDistrict>IIВ</ClimateDistrict>
+      <GeologicalConditions>I</GeologicalConditions>
+      <WindDistrict>I</WindDistrict>
+      <SnowDistrict>III</SnowDistrict>
+      <SeismicActivity>5</SeismicActivity>
+    </ClimateConditions>
+    <Resources>
+      <Resource>
+        <Name>Потребность в электроэнергии</Name>
+        <Measure>214</Measure>
+        <Value>00</Value>
+      </Resource>
+      <Resource>
+        <Name>Потребность в водопотреблении</Name>
+        <Measure>598</Measure>
+        <Value>00</Value>
+      </Resource>
+      <Resource>
+        <Name>Расход тепловой энергии</Name>
+        <Measure>238</Measure>
+        <Value>00</Value>
+      </Resource>
+    </Resources>
+    <RenewableSourceInfo>
+      <Text>Не используются</Text>
+    </RenewableSourceInfo>
+    <LandCategory>2</LandCategory>
+    <LandInfo>
+      <CommonLandInfo>
+        <Text>Не принадлежит</Text>
+      </CommonLandInfo>
+    </LandInfo>
+    <LandFunds>
+      <Text>Не требуется для данного объекта</Text>
+    </LandFunds>
+    <PatentsUsed>
+      <Text>Не требуется для данного объекта</Text>
+    </PatentsUsed>
+    <SpecialRequirements>
+      <Text>Не требуется для данного объекта</Text>
+    </SpecialRequirements>
+    <StaffNote Title="Предварительная оценка штатного расписания">
+      <Text>Вместимость рассматриваемого здания составляет 620 учащихся. Обучение осуществляется в одну смену.
+
+Организационно-педагогическая структура школы: 
+начальная школа (1- 4 классы) -240 чел., 
+основная школа (5-9 классы) - 300 чел., 
+старшая школа (10-11 классы) - 80 чел. 
+Уровень начального образования размещается на 1 этаже.
+Уровень основного общего образования и уровень среднего общего – размещаются на 1-4 этажах.
+Уровень начального образования (1- 4 классы) предполагает 12 классов.  
+Уровень основного общего образования (5-9 классы) предполагает наличие 15 классов.  
+Уровень старшего общего образования (10-11 классы) предполагает наличие 4 классов. 
+Предполагаемое количество учащихся в классах до 20 учеников.  
+Количество классов: 31 класс.
+Библиотека – 50 чел.
+
+Количество персонала:
+
+Количество уборщиков: 11 человек.
+Количество преподавателей: 41 человек (максимально в 1 смену), 41 человек в сутки.
+Количество медицинского персонала в медблоке: 2 человека (максимально в 1 смену), 2 человека в сутки.
+Количество сотрудников охраны: 2 человека (максимально в 1 смену), 6 человек в сутки.
+Количество обслуживающего персонала и администрации: 13 человек (максимально в 1 смену), 16 человек в сутки.
+Количество блюд, приготавливаемых в пищеблоке: 4 347 блюд в сутки.
+Количество посадочных мест в пищеблоке: 207 мест.
+Количество персонала пищеблока: 4 человека (максимально в 1 смену), всего 6 человек.</Text>
+    </StaffNote>
+    <SoftwareUsed>
+      <SoftwareNote>
+        <Text>При выполнении расчетов конструктивных элементов зданий, строений, сооружений использовалось программное обеспечение Word, Exel, AutoСad, SCAD Office (версия 21)</Text>
+      </SoftwareNote>
+    </SoftwareUsed>
+    <StagesInfo>
+      <ReasonNote>
+        <Text>Проектирование и строительство предусмотреть в 2 этапа:
+1 этап – выполнение работ по капитальному ремонту нежилого здания. Мероприятия по охране растительного мира не требуются, все работы проводятся внутри здания;
+2 этап – выполнение работ по капитальному ремонту благоустройства, озеленения, наружных инженерных сетей, архитектурного освещения, устройства внешнего контура заземления и ИТП.
+Ввод объекта в эксплуатацию производится при одновременном вводе 2х этапов.
+Проектная документация разработана для 1 этапа.</Text>
+      </ReasonNote>
+    </StagesInfo>
+    <DestroyFunds>
+      <Text>Не требуется для данного объекта</Text>
+    </DestroyFunds>
+    <EnergyEfficiencyLinks>
+      <ProjectDocumentationLink>
+        <DocNumber>16-25/Г-П-АР</DocNumber>
+        <DocSectionLink>п. б.1, п.б.2</DocSectionLink>
+      </ProjectDocumentationLink>
+      <ProjectDocumentationLink>
+        <DocNumber>16-25/Г-П-ЭЭ</DocNumber>
+        <DocSectionLink>п. а, п. б</DocSectionLink>
+      </ProjectDocumentationLink>
+      <ProjectDocumentationLink>
+        <DocNumber>16-25/Г-П-КР</DocNumber>
+        <DocSectionLink>о, о_1, о_2</DocSectionLink>
+      </ProjectDocumentationLink>
+    </EnergyEfficiencyLinks>
+    <LandReclamationLink>
+      <Text>Не требуется для данного объекта</Text>
+    </LandReclamationLink>
+    <ProjectDocumentation>
+      <Section3>
+        <Document>
+          <DocName>Объемно-планировочные и архитектурные решения</DocName>
+          <DocNumber>16-25/Г-П-АР</DocNumber>
+          <File>
+            <FileName>16-25-Г-П-АР.pdf.sig</FileName>
+            <FileFormat>sig</FileFormat>
+            <FileChecksum>93A40D04</FileChecksum>
+          </File>
+        </Document>
+        <Document>
+          <DocName>Объемно-планировочные и архитектурные решения. Ведомость объемов работ.</DocName>
+          <DocNumber>16-25/Г-П-АР.ВОР</DocNumber>
+          <File>
+            <FileName>16-25-Г-П-АР.ВОР.pdf.sig</FileName>
+            <FileFormat>sig</FileFormat>
+            <FileChecksum>B385A215</FileChecksum>
+          </File>
+          <File>
+            <FileName>16-25-Г-П-АР.ВОР_приложение.pdf</FileName>
+            <FileFormat>pdf</FileFormat>
+            <FileChecksum>A416EC83</FileChecksum>
+          </File>
+        </Document>
+        <Document>
+          <DocName>Расчеты, обосновывающие проектные решения и мероприятия, обеспечивающие соблюдение требуемых теплозащитных характеристик о граждающих конструкций и с оответствие зданий, с троений и с ооружений у становленным требованиям энергетической эффективности</DocName>
+          <DocNumber>16-25/Г-П-ЭЭ</DocNumber>
+          <File>
+            <FileName>16-25_Г_П-ЭЭ_2026.08.26.pdf.sig</FileName>
+            <FileFormat>sig</FileFormat>
+            <FileChecksum>E1C56392</FileChecksum>
+          </File>
+        </Document>
+      </Section3>
+      <Section4>
+        <Document>
+          <DocName>Конструктивные решения</DocName>
+          <DocNumber>16-25/Г-П-КР</DocNumber>
+          <File>
+            <FileName>16-25-Г-П-КР.П.pdf</FileName>
+            <FileFormat>pdf</FileFormat>
+            <FileChecksum>0620D36A</FileChecksum>
+          </File>
+        </Document>
+        <Document>
+          <DocName>Конструктивные решения. Ведомость объемов работ.</DocName>
+          <DocNumber>16-25/Г-П-КР.ВОР</DocNumber>
+          <File>
+            <FileName>16-25-Г-П-КР.С ВОР.pdf</FileName>
+            <FileFormat>pdf</FileFormat>
+            <FileChecksum>31665E6B</FileChecksum>
+          </File>
+        </Document>
+        <SubSection Name="Раздел 4 &quot;Конструктивные решен ия&quot;">
+          <Document>
+            <DocName>Расчетное обоснование (подиум)</DocName>
+            <DocNumber>16-25/Г -П – КР.РР</DocNumber>
+            <File>
+              <FileName>16-25Г-П-КР.Р_01.09.2026.pdf.sig</FileName>
+              <FileFormat>sig</FileFormat>
+              <FileChecksum>558B096E</FileChecksum>
+            </File>
+          </Document>
+        </SubSection>
+      </Section4>
+      <Section5>
+        <ElectricitySupply>
+          <Document>
+            <DocName>Подраздел 1. Система электроснабжения.</DocName>
+            <DocNumber>16-25/Г-П-ИОС1</DocNumber>
+            <File>
+              <FileName>16-25_Г-П-ИОС1.pdf</FileName>
+              <FileFormat>pdf</FileFormat>
+              <FileChecksum>A753E966</FileChecksum>
+            </File>
+          </Document>
+        </ElectricitySupply>
+        <WaterSupply>
+          <Document>
+            <DocName>Подраздел 2. Система водоснабжения</DocName>
+            <DocNumber>16-25/Г-П-ИОС2</DocNumber>
+            <File>
+              <FileName>16-25_Г-П-ИОС2. 25.08pdf.pdf.sig</FileName>
+              <FileFormat>sig</FileFormat>
+              <FileChecksum>E2356625</FileChecksum>
+            </File>
+          </Document>
+        </WaterSupply>
+        <WaterRemoval>
+          <Document>
+            <DocName>Подраздел 3. Система водоотведения</DocName>
+            <DocNumber>16-25/Г-П-ИОС3</DocNumber>
+            <File>
+              <FileName>16-25_Г-П-ИОС3_26.08.2026 (вер.3).pdf.sig</FileName>
+              <FileFormat>sig</FileFormat>
+              <FileChecksum>13A09BEA</FileChecksum>
+            </File>
+          </Document>
+        </WaterRemoval>
+        <HeatingVentilation>
+          <Document>
+            <DocName>Подраздел 4. Отопление, вентиляция и кондиционирование воздуха, тепловые сети</DocName>
+            <DocNumber>16-25/Г-П-ИОС4</DocNumber>
+            <File>
+              <FileName>16-25-Г-П-ИОС4.pdf</FileName>
+              <FileFormat>pdf</FileFormat>
+              <FileChecksum>9168AC69</FileChecksum>
+            </File>
+          </Document>
+        </HeatingVentilation>
+        <Communication>
+          <Document>
+            <DocName>Часть 1. Автоматическая пожарная сигнализация.</DocName>
+            <DocNumber>16-25/Г-П-ИОС5.1</DocNumber>
+            <File>
+              <FileName>16-25_Г-П-ИОС5.1_23.07.2026.pdf</FileName>
+              <FileFormat>pdf</FileFormat>
+              <FileChecksum>A4D45981</FileChecksum>
+            </File>
+            <File>
+              <FileName>16-25_Г-П-ИОС5.1_23.07.2026.pdf.sig</FileName>
+              <FileFormat>sig</FileFormat>
+              <FileChecksum>BC41944F</FileChecksum>
+            </File>
+          </Document>
+          <Document>
+            <DocName>Часть 2. Система оповещения управления эвакуацией.</DocName>
+            <DocNumber>16-25/Г-П-ИОС5.2</DocNumber>
+            <File>
+              <FileName>16-25Г-П–ИОС5.2_23.07.2026.pdf</FileName>
+              <FileFormat>pdf</FileFormat>
+              <FileChecksum>E9F67997</FileChecksum>
+            </File>
+            <File>
+              <FileName>16-25Г-П–ИОС5.2_23.07.2026.pdf.sig</FileName>
+              <FileFormat>sig</FileFormat>
+              <FileChecksum>9E978FCE</FileChecksum>
+            </File>
+          </Document>
+          <Document>
+            <DocName> Часть 3. Радиофикация. Оповещение о чрезвычайных  ситуациях</DocName>
+            <DocNumber>16-25/Г-П-ИОС5.3</DocNumber>
+            <File>
+              <FileName>16-25-Г-П-ИОС5.3_19.10.2026.pdf.sig</FileName>
+              <FileFormat>sig</FileFormat>
+              <FileChecksum>F3419C08</FileChecksum>
+            </File>
+          </Document>
+          <Document>
+            <DocName>Часть 4. Система кабельного телевидения. </DocName>
+            <DocNumber>16-25/Г-П-ИОС5.4</DocNumber>
+            <File>
+              <FileName>16-25-Г-П-ИОС5.4_23.07.2026.pdf</FileName>
+              <FileFormat>pdf</FileFormat>
+              <FileChecksum>9B279E6B</FileChecksum>
+            </File>
+            <File>
+              <FileName>16-25-Г-П-ИОС5.4_23.07.2026.pdf.sig</FileName>
+              <FileFormat>sig</FileFormat>
+              <FileChecksum>55772131</FileChecksum>
+            </File>
+          </Document>
+          <Document>
+            <DocName>Часть 5. Структурированные кабельные сети. </DocName>
+            <DocNumber>16-25/Г-П-ИОС5.5</DocNumber>
+            <File>
+              <FileName>16-25-Г-П-ИОС5.5 11.08.2026.pdf</FileName>
+              <FileFormat>pdf</FileFormat>
+              <FileChecksum>8DC465B9</FileChecksum>
+            </File>
+          </Document>
+          <Document>
+            <DocName>Часть 6. Электрочасофикация.</DocName>
+            <DocNumber>16-25/Г-П-ИОС5.6</DocNumber>
+            <File>
+              <FileName>16-25-Г-П-ИОС5.6_23.07.2026.pdf</FileName>
+              <FileFormat>pdf</FileFormat>
+              <FileChecksum>5CD598BF</FileChecksum>
+            </File>
+            <File>
+              <FileName>16-25-Г-П-ИОС5.6_23.07.2026.pdf.sig</FileName>
+              <FileFormat>sig</FileFormat>
+              <FileChecksum>E61BA8EA</FileChecksum>
+            </File>
+          </Document>
+          <Document>
+            <DocName>Часть 7. Система охранного теленаблюдения.</DocName>
+            <DocNumber>16-25/Г-П-ИОС5.7</DocNumber>
+            <File>
+              <FileName>16-25 Г-П – ИОС5.7_23.07.2026.pdf</FileName>
+              <FileFormat>pdf</FileFormat>
+              <FileChecksum>36831F14</FileChecksum>
+            </File>
+            <File>
+              <FileName>16-25 Г-П – ИОС5.7_23.07.2026.pdf.sig</FileName>
+              <FileFormat>sig</FileFormat>
+              <FileChecksum>595E5E91</FileChecksum>
+            </File>
+          </Document>
+          <Document>
+            <DocName>Часть 8. Система контроля управления доступом. </DocName>
+            <DocNumber>16-25/Г-П-ИОС5.8</DocNumber>
+            <File>
+              <FileName>16-25_Г-П-ИОС5.8_23.07.2026.pdf</FileName>
+              <FileFormat>pdf</FileFormat>
+              <FileChecksum>58621507</FileChecksum>
+            </File>
+            <File>
+              <FileName>16-25_Г-П-ИОС5.8_23.07.2026.pdf.sig</FileName>
+              <FileFormat>sig</FileFormat>
+              <FileChecksum>F5E9CEF7</FileChecksum>
+            </File>
+          </Document>
+          <Document>
+            <DocName>Часть 9. Система охранной сигнализации. </DocName>
+            <DocNumber>16-25/Г-П-ИОС5.9</DocNumber>
+            <File>
+              <FileName>16-25-Г-П-ИОС5.9_23.07.2026.pdf</FileName>
+              <FileFormat>pdf</FileFormat>
+              <FileChecksum>74A0DD13</FileChecksum>
+            </File>
+            <File>
+              <FileName>16-25-Г-П-ИОС5.9_23.07.2026.pdf.sig</FileName>
+              <FileFormat>sig</FileFormat>
+              <FileChecksum>F54F0AA2</FileChecksum>
+            </File>
+          </Document>
+          <Document>
+            <DocName>Часть 10. Система двухсторонней связи</DocName>
+            <DocNumber>489-24-П-ИОС5.10</DocNumber>
+            <File>
+              <FileName>16-25Г-П-ИОС5.10_23.07.2026.pdf</FileName>
+              <FileFormat>pdf</FileFormat>
+              <FileChecksum>F4C652ED</FileChecksum>
+            </File>
+            <File>
+              <FileName>16-25Г-П-ИОС5.10_23.07.2026.pdf.sig</FileName>
+              <FileFormat>sig</FileFormat>
+              <FileChecksum>CA445453</FileChecksum>
+            </File>
+            <File>
+              <FileName>16-25Г-П-ИОС5(1).10_23.07.2026.pdf.sig</FileName>
+              <FileFormat>sig</FileFormat>
+              <FileChecksum>C61FAF8A</FileChecksum>
+            </File>
+          </Document>
+          <Document>
+            <DocName>Часть 11. Автоматизация и диспетчеризация инженерных систем</DocName>
+            <DocNumber>16-25/Г-П-ИОС5.11</DocNumber>
+            <File>
+              <FileName>16-25-Г-П-ИОС5.11_03.08.2026.pdf</FileName>
+              <FileFormat>pdf</FileFormat>
+              <FileChecksum>8E5DAA7E</FileChecksum>
+            </File>
+          </Document>
+          <Document>
+            <DocName>Часть 12. Автоматизация противопожарной защиты</DocName>
+            <DocNumber>16-25/Г-П-ИОС5.12</DocNumber>
+            <File>
+              <FileName>16-25-Г-П-ИОС5.12_04.08.2026.pdf</FileName>
+              <FileFormat>pdf</FileFormat>
+              <FileChecksum>DB8C3AE0</FileChecksum>
+            </File>
+          </Document>
+          <Document>
+            <DocName>Часть 13. Информационная система «Проход и питание по электронной карте»</DocName>
+            <DocNumber>16-25/Г-П-ИОС5.13</DocNumber>
+            <File>
+              <FileName>16-25 Г-П–ИОС5.13_23.07.2026.pdf</FileName>
+              <FileFormat>pdf</FileFormat>
+              <FileChecksum>3549AB15</FileChecksum>
+            </File>
+            <File>
+              <FileName>16-25 Г-П–ИОС5.13_23.07.2026.pdf.sig</FileName>
+              <FileFormat>sig</FileFormat>
+              <FileChecksum>961A953A</FileChecksum>
+            </File>
+          </Document>
+        </Communication>
+      </Section5>
+      <Section7>
+        <Document>
+          <DocName>Раздел 7. Проект организации строительства. 1 этап</DocName>
+          <DocNumber>16-25/Г-П-ПОС</DocNumber>
+          <File>
+            <FileName>16-25_Г-П-ПОС.pdf.sig</FileName>
+            <FileFormat>sig</FileFormat>
+            <FileChecksum>3A5B3CA2</FileChecksum>
+          </File>
+        </Document>
+      </Section7>
+      <Section8>
+        <Document>
+          <DocName>Раздел 8. Часть 1. Акустический расчет. 1 этап</DocName>
+          <DocNumber>16-25/Г-П-ООС1</DocNumber>
+          <File>
+            <FileName>16-25_Г-П-ООС1 от 31.07.2026.pdf</FileName>
+            <FileFormat>pdf</FileFormat>
+            <FileChecksum>1CAA3B0B</FileChecksum>
+          </File>
+        </Document>
+        <Document>
+          <DocName>Часть 2. Мероприятия по обращению со строительными отходами. 1 этап</DocName>
+          <DocNumber>16-25/Г-П-ООС2</DocNumber>
+          <File>
+            <FileName>16-25_Г-П-ИООС2.pdf</FileName>
+            <FileFormat>pdf</FileFormat>
+            <FileChecksum>92CD8E97</FileChecksum>
+          </File>
+          <File>
+            <FileName>16-25_Г-П-ИООС2.pdf.sig</FileName>
+            <FileFormat>sig</FileFormat>
+            <FileChecksum>CFD5691B</FileChecksum>
+          </File>
+        </Document>
+      </Section8>
+      <Section9>
+        <Document>
+          <DocName>Раздел 9. Мероприятия по обеспечению пожарной безопасности. </DocName>
+          <DocNumber>16-25/Г-П-ПБ</DocNumber>
+          <File>
+            <FileName>16-25_Г-П-ПБ_25_08_2026.pdf.sig</FileName>
+            <FileFormat>sig</FileFormat>
+            <FileChecksum>4BC4FC03</FileChecksum>
+          </File>
+        </Document>
+      </Section9>
+      <Section10>
+        <Document>
+          <DocName>Часть 1. Требования к обеспечению без-опасной эксплуатации объектов капитально-го строительства. </DocName>
+          <DocNumber>16-25/Г-П-ТБЭ</DocNumber>
+          <File>
+            <FileName>16-25_Г-П-ТБЭ [Biukam].pdf</FileName>
+            <FileFormat>pdf</FileFormat>
+            <FileChecksum>94425BF1</FileChecksum>
+          </File>
+          <File>
+            <FileName>16-25_Г-П-ТБЭ [i1VDRu].pdf.sig</FileName>
+            <FileFormat>sig</FileFormat>
+            <FileChecksum>50C8563C</FileChecksum>
+          </File>
+        </Document>
+        <Document>
+          <DocName>Часть 2. Мероприятия по противодействию террористическим актам. </DocName>
+          <DocNumber>16-25/Г-П-ПТА</DocNumber>
+          <File>
+            <FileName>16-25_Г-П-ПТА [Wj7qI1].pdf</FileName>
+            <FileFormat>pdf</FileFormat>
+            <FileChecksum>15ECDDBD</FileChecksum>
+          </File>
+          <File>
+            <FileName>16-25_Г-П-ПТА [mQwdam].pdf.sig</FileName>
+            <FileFormat>sig</FileFormat>
+            <FileChecksum>9D14AEBA</FileChecksum>
+          </File>
+        </Document>
+      </Section10>
+      <Section11>
+        <Document>
+          <DocName>Мероприятия по обеспечению доступа инвалидов к объекту капитального </DocName>
+          <DocNumber>16-25/Г-П-ОДИ</DocNumber>
+          <File>
+            <FileName>ОДИ_ст П_ГБОУ 429_Соколиная гора 14.pdf</FileName>
+            <FileFormat>pdf</FileFormat>
+            <FileChecksum>A9147E1F</FileChecksum>
+          </File>
+          <File>
+            <FileName>ОДИ_ст П_ГБОУ 429_Соколиная гора 14.pdf.sig</FileName>
+            <FileFormat>sig</FileFormat>
+            <FileChecksum>1F675FB3</FileChecksum>
+          </File>
+        </Document>
+        <Document>
+          <DocName>Мероприятия по обеспечению доступа инва-лидов к объекту капитального строительства. Ведомость объемов работ. </DocName>
+          <DocNumber>16-25/Г-П-ОДИ.ВОР</DocNumber>
+          <File>
+            <FileName>ОДИ_ВОР ст П_ГБОУ 429_Соколиная гора 14.pdf</FileName>
+            <FileFormat>pdf</FileFormat>
+            <FileChecksum>243ED9DA</FileChecksum>
+          </File>
+          <File>
+            <FileName>ОДИ_ВОР ст П_ГБОУ 429_Соколиная гора 14.pdf.sig</FileName>
+            <FileFormat>sig</FileFormat>
+            <FileChecksum>13A8F3A9</FileChecksum>
+          </File>
+        </Document>
+      </Section11>
+    </ProjectDocumentation>
+  </NonIndustrialObject>
+  <DesignerAssurance>
+    <Assurance Title="Заверение проектной организации, осуществляющей подготовку проектной документации, о том, что проектная документация подготовлена в соответствии с требованиями, указанными в пункте 5 настоящего Положения, градостроительным планом земельного участка, заданием на проектирование, градостроительным регламентом, техническими регламентами, устанавливающими в том числе требования к обеспечению безопасной эксплуатации зданий, строений, сооружений и безопасному использованию прилегающих к ним территорий, а также с соблюдением технических условий">
+      <Text>Проектная документация для объекта «Капитальный ремонт общеобразовательного учреждения (ГБОУ «Школа № 429»), расположенного по адресу: г. Москва, 5-ая ул. Соколиной Горы д.14. 1 этап» разработана в соответствии с заданием на проектирование, градостроительным регламентом, документами об использовании земельного участка для строительства, техническими регламентами, в том числе устанавливающими требования по обеспечению безопасной эксплуатации зданий, строений, сооружений и безопасного использования прилегающих к ним территорий, и с соблюдением технических условий. Проект предусматривает мероприятия, обеспечивающие конструктивную надежность,  взрывопожарную и пожарную безопасность объекта, устойчивую работу объекта в чрезвычайных ситуациях, защиту окружающей природной среды при его эксплуатации, отвечает
+требованиям Градостроительного Кодекса РФ и федерального закона РФ. От 30.12.2003 №384-ФЗ «Технический регламент о безопасности зданий и сооружений».
+</Text>
+    </Assurance>
+    <Signer engineeringRegistry="да">
+      <FamilyName>Неменов</FamilyName>
+      <FirstName>Георгий</FirstName>
+      <SecondName>Наумович</SecondName>
+      <Position>Главный инженер проекта</Position>
+    </Signer>
+  </DesignerAssurance>
+</ExplanatoryNote>
